@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="TestSuite1" time="193.363" tests="5" failures="0" errors="0">
+   <testsuite name="TestSuite1" tests="5" failures="0" errors="0" time="193.363" skipped="0" timestamp="2023-01-23 15:03:57" hostname="lfiguers - ZCO-DFMGTT2.usersad.everis.int" id="Test Suites/TestSuite1">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\lfiguers\\Bitbucket\\mip_katalon_test\\Reports\\20230123_150349\\TestSuite1\\20230123_150350"/>
+         <property name="logFiles" value="C:\\Users\\lfiguers\\Bitbucket\\mip_katalon_test\\Reports\\20230123_150349\\TestSuite1\\20230123_150350\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="lfiguers - ZCO-DFMGTT2.usersad.everis.int"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.5.5.208"/>
+         <property name="browser" value="Chrome 109.0.0.0"/>
+         <property name="hostAddress" value="10.150.4.223"/>
+         <property name="sessionId" value="7d29b18cc2292e08b01085463a4b6f26"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/CompaniesCompetitors/EjemploValidacion" time="81.462" classname="Test Cases/CompaniesCompetitors/EjemploValidacion" status="PASSED">
+         <system-out><![CDATA[2023-01-23 15:03:57 - [TEST_CASE][PASSED] - Test Cases/CompaniesCompetitors/EjemploValidacion: Test Cases/CompaniesCompetitors/EjemploValidacion
+
+2023-01-23 15:03:58 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-01-23 15:03:58 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-01-23 15:03:59 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-01-23 15:04:02 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-01-23 15:04:02 - [TEST_STEP][PASSED] - navigateToUrl("https://mip.eassets.emeal.nttdata.com"): Navigate to 'https://mip.eassets.emeal.nttdata.com' successfully
+
+2023-01-23 15:04:25 - [MESSAGE][PASSED] - Navigate to 'https://mip.eassets.emeal.nttdata.com' successfully
+
+2023-01-23 15:04:25 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Market Intelligence Platform/button_Continue")): Object: 'Object Repository/Page_Market Intelligence Platform/button_Continue' is clicked on
+
+2023-01-23 15:04:26 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Market Intelligence Platform/button_Continue' is clicked on
+
+2023-01-23 15:04:26 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Market Intelligence Platform/span_Privacy policy_mat-checkbox-inner-container")): Object: 'Object Repository/Page_Market Intelligence Platform/span_Privacy policy_mat-checkbox-inner-container' is clicked on
+
+2023-01-23 15:04:28 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Market Intelligence Platform/span_Privacy policy_mat-checkbox-inner-container' is clicked on
+
+2023-01-23 15:04:28 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Market Intelligence Platform/span_Terms of use_mat-checkbox-inner-container")): Object: 'Object Repository/Page_Market Intelligence Platform/span_Terms of use_mat-checkbox-inner-container' is clicked on
+
+2023-01-23 15:04:30 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Market Intelligence Platform/span_Terms of use_mat-checkbox-inner-container' is clicked on
+
+2023-01-23 15:04:30 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Market Intelligence Platform/button_Continue")): Object: 'Object Repository/Page_Market Intelligence Platform/button_Continue' is clicked on
+
+2023-01-23 15:04:32 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Market Intelligence Platform/button_Continue' is clicked on
+
+2023-01-23 15:04:32 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Market Intelligence Platform/mat-icon_close")): Object: 'Object Repository/Page_Market Intelligence Platform/mat-icon_close' is clicked on
+
+2023-01-23 15:04:34 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Market Intelligence Platform/mat-icon_close' is clicked on
+
+2023-01-23 15:04:34 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Market Intelligence Platform/button_Continue")): Object: 'Object Repository/Page_Market Intelligence Platform/button_Continue' is clicked on
+
+2023-01-23 15:04:36 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Market Intelligence Platform/button_Continue' is clicked on
+
+2023-01-23 15:04:36 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Market Intelligence Platform/mat-icon_navigate_before")): Object: 'Object Repository/Page_Market Intelligence Platform/mat-icon_navigate_before' is clicked on
+
+2023-01-23 15:04:38 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Market Intelligence Platform/mat-icon_navigate_before' is clicked on
+
+2023-01-23 15:04:38 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Market Intelligence Platform/a_apartmentCompaniesexpand_more")): Object: 'Object Repository/Page_Market Intelligence Platform/a_apartmentCompaniesexpand_more' is clicked on
+
+2023-01-23 15:04:40 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Market Intelligence Platform/a_apartmentCompaniesexpand_more' is clicked on
+
+2023-01-23 15:04:40 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Market Intelligence Platform/label_Competitors")): Object: 'Object Repository/Page_Market Intelligence Platform/label_Competitors' is clicked on
+
+2023-01-23 15:04:42 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Market Intelligence Platform/label_Competitors' is clicked on
+
+2023-01-23 15:04:42 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Market Intelligence Platform/td_61.594.305.000")): Object: 'Object Repository/Page_Market Intelligence Platform/td_61.594.305.000' is clicked on
+
+2023-01-23 15:04:47 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Market Intelligence Platform/td_61.594.305.000' is clicked on
+
+2023-01-23 15:04:47 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Market Intelligence Platform/span_Accenture")): Object: 'Object Repository/Page_Market Intelligence Platform/span_Accenture' is clicked on
+
+2023-01-23 15:04:49 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Market Intelligence Platform/span_Accenture' is clicked on
+
+2023-01-23 15:04:49 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Market Intelligence Platform/td_61.594.305.000")): Object: 'Object Repository/Page_Market Intelligence Platform/td_61.594.305.000' is clicked on
+
+2023-01-23 15:04:57 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Market Intelligence Platform/td_61.594.305.000' is clicked on
+
+2023-01-23 15:04:57 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Market Intelligence Platform/a_Accenture to acquire SKS Group")): Object: 'Object Repository/Page_Market Intelligence Platform/a_Accenture to acquire SKS Group' is clicked on
+
+2023-01-23 15:04:59 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Market Intelligence Platform/a_Accenture to acquire SKS Group' is clicked on
+
+2023-01-23 15:04:59 - [TEST_STEP][PASSED] - delay(15): Delayed 15 second(s)
+
+2023-01-23 15:05:14 - [MESSAGE][PASSED] - Delayed 15 second(s)
+
+2023-01-23 15:05:14 - [TEST_STEP][PASSED] - verifyTextPresent("Accenture to acquire SKS Group", false): Text 'Accenture to acquire SKS Group' is present on page 
+
+2023-01-23 15:05:16 - [MESSAGE][PASSED] - Text 'Accenture to acquire SKS Group' is present on page 
+
+2023-01-23 15:05:16 - [TEST_STEP][PASSED] - switchToWindowTitle("Accenture to acquire SKS Group"): Switched to window with title: 'Accenture to acquire SKS Group'
+
+2023-01-23 15:05:17 - [MESSAGE][PASSED] - Switched to window with title: 'Accenture to acquire SKS Group'
+
+2023-01-23 15:05:17 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("ObjetosManuales/Page_Accenture to acquire SKS Group/h2_Accenture to acquire SKS Group_Uptodate"), "Accenture to acquire SKS Group"): Actual text and expected text of test object 'Object Repository/ObjetosManuales/Page_Accenture to acquire SKS Group/h2_Accenture to acquire SKS Group_Uptodate' are matched.
+
+2023-01-23 15:05:17 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/ObjetosManuales/Page_Accenture to acquire SKS Group/h2_Accenture to acquire SKS Group_Uptodate' are matched.
+
+2023-01-23 15:05:17 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Accenture to acquire SKS Group/h2_Accenture to acquire SKS Group")): Object: 'Object Repository/Page_Accenture to acquire SKS Group/h2_Accenture to acquire SKS Group' is clicked on
+
+2023-01-23 15:05:18 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Accenture to acquire SKS Group/h2_Accenture to acquire SKS Group' is clicked on
+
+2023-01-23 15:05:18 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Accenture to acquire SKS Group/div_Accenture to acquire SKS Group143 min r_70339d")): Object: 'Object Repository/Page_Accenture to acquire SKS Group/div_Accenture to acquire SKS Group143 min r_70339d' is clicked on
+
+2023-01-23 15:05:18 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Accenture to acquire SKS Group/div_Accenture to acquire SKS Group143 min r_70339d' is clicked on
+
+2023-01-23 15:05:18 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Accenture to acquire SKS Group/h2_Accenture to acquire SKS Group")): Object: 'Object Repository/Page_Accenture to acquire SKS Group/h2_Accenture to acquire SKS Group' is clicked on
+
+2023-01-23 15:05:19 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Accenture to acquire SKS Group/h2_Accenture to acquire SKS Group' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Home/15-Verificar correcto funcionamiento del buscador Search Market information" time="31.233" classname="Test Cases/Home/15-Verificar correcto funcionamiento del buscador Search Market information" status="PASSED">
+         <system-out><![CDATA[2023-01-23 15:05:19 - [TEST_CASE][PASSED] - Test Cases/Home/15-Verificar correcto funcionamiento del buscador Search Market information: Test Cases/Home/15-Verificar correcto funcionamiento del buscador Search Market information
+
+2023-01-23 15:05:19 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-01-23 15:05:19 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2023-01-23 15:05:20 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-01-23 15:05:20 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-01-23 15:05:22 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-01-23 15:05:22 - [TEST_STEP][PASSED] - navigateToUrl("https://mip.eassets.emeal.nttdata.com/home"): Navigate to 'https://mip.eassets.emeal.nttdata.com/home' successfully
+
+2023-01-23 15:05:38 - [MESSAGE][PASSED] - Navigate to 'https://mip.eassets.emeal.nttdata.com/home' successfully
+
+2023-01-23 15:05:38 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Market Intelligence Platform/button_Continue")): Object: 'Object Repository/Page_Market Intelligence Platform/button_Continue' is clicked on
+
+2023-01-23 15:05:39 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Market Intelligence Platform/button_Continue' is clicked on
+
+2023-01-23 15:05:39 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Market Intelligence Platform/span_I have read the Terms of use")): Object: 'Object Repository/Page_Market Intelligence Platform/span_I have read the Terms of use' is clicked on
+
+2023-01-23 15:05:39 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Market Intelligence Platform/span_I have read the Terms of use' is clicked on
+
+2023-01-23 15:05:39 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Market Intelligence Platform/label_I have read and agree to the Privacy policy")): Object: 'Object Repository/Page_Market Intelligence Platform/label_I have read and agree to the Privacy policy' is clicked on
+
+2023-01-23 15:05:40 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Market Intelligence Platform/label_I have read and agree to the Privacy policy' is clicked on
+
+2023-01-23 15:05:40 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Market Intelligence Platform/button_Continue")): Object: 'Object Repository/Page_Market Intelligence Platform/button_Continue' is clicked on
+
+2023-01-23 15:05:41 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Market Intelligence Platform/button_Continue' is clicked on
+
+2023-01-23 15:05:41 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Market Intelligence Platform/mat-icon_close")): Object: 'Object Repository/Page_Market Intelligence Platform/mat-icon_close' is clicked on
+
+2023-01-23 15:05:42 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Market Intelligence Platform/mat-icon_close' is clicked on
+
+2023-01-23 15:05:42 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Market Intelligence Platform/button_Continue")): Object: 'Object Repository/Page_Market Intelligence Platform/button_Continue' is clicked on
+
+2023-01-23 15:05:44 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Market Intelligence Platform/button_Continue' is clicked on
+
+2023-01-23 15:05:44 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Market Intelligence Platform/input_Market Landscape  Companies  Analysts_fbd6ca"), "Market Landscape"): Text 'Market Landscape' is set on object 'Object Repository/Page_Market Intelligence Platform/input_Market Landscape  Companies  Analysts_fbd6ca'
+
+2023-01-23 15:05:48 - [MESSAGE][PASSED] - Text 'Market Landscape' is set on object 'Object Repository/Page_Market Intelligence Platform/input_Market Landscape  Companies  Analysts_fbd6ca'
+
+2023-01-23 15:05:48 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Object Repository/Page_Market Intelligence Platform/input_Market Landscape  Companies  Analysts_fbd6ca"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/Page_Market Intelligence Platform/input_Market Landscape  Companies  Analysts_fbd6ca'
+
+2023-01-23 15:05:50 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/Page_Market Intelligence Platform/input_Market Landscape  Companies  Analysts_fbd6ca']]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Home/16-Verificar Link Laterales" time="31.452" classname="Test Cases/Home/16-Verificar Link Laterales" status="PASSED">
+         <system-out><![CDATA[2023-01-23 15:05:50 - [TEST_CASE][PASSED] - Test Cases/Home/16-Verificar Link Laterales: Test Cases/Home/16-Verificar Link Laterales
+
+2023-01-23 15:05:51 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-01-23 15:05:51 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2023-01-23 15:05:52 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-01-23 15:05:52 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-01-23 15:05:53 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-01-23 15:05:53 - [TEST_STEP][PASSED] - navigateToUrl("https://mip.eassets.emeal.nttdata.com/home"): Navigate to 'https://mip.eassets.emeal.nttdata.com/home' successfully
+
+2023-01-23 15:06:10 - [MESSAGE][PASSED] - Navigate to 'https://mip.eassets.emeal.nttdata.com/home' successfully
+
+2023-01-23 15:06:10 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Market Intelligence Platform/button_Continue")): Object: 'Object Repository/Page_Market Intelligence Platform/button_Continue' is clicked on
+
+2023-01-23 15:06:10 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Market Intelligence Platform/button_Continue' is clicked on
+
+2023-01-23 15:06:10 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Market Intelligence Platform/span_Privacy policy_mat-checkbox-inner-container")): Object: 'Object Repository/Page_Market Intelligence Platform/span_Privacy policy_mat-checkbox-inner-container' is clicked on
+
+2023-01-23 15:06:11 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Market Intelligence Platform/span_Privacy policy_mat-checkbox-inner-container' is clicked on
+
+2023-01-23 15:06:11 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Market Intelligence Platform/span_Terms of use_mat-checkbox-inner-container")): Object: 'Object Repository/Page_Market Intelligence Platform/span_Terms of use_mat-checkbox-inner-container' is clicked on
+
+2023-01-23 15:06:12 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Market Intelligence Platform/span_Terms of use_mat-checkbox-inner-container' is clicked on
+
+2023-01-23 15:06:12 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Market Intelligence Platform/button_Continue")): Object: 'Object Repository/Page_Market Intelligence Platform/button_Continue' is clicked on
+
+2023-01-23 15:06:13 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Market Intelligence Platform/button_Continue' is clicked on
+
+2023-01-23 15:06:13 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Market Intelligence Platform/mat-icon_close")): Object: 'Object Repository/Page_Market Intelligence Platform/mat-icon_close' is clicked on
+
+2023-01-23 15:06:13 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Market Intelligence Platform/mat-icon_close' is clicked on
+
+2023-01-23 15:06:13 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Market Intelligence Platform/button_Continue")): Object: 'Object Repository/Page_Market Intelligence Platform/button_Continue' is clicked on
+
+2023-01-23 15:06:14 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Market Intelligence Platform/button_Continue' is clicked on
+
+2023-01-23 15:06:14 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Market Intelligence Platform/div_Find the market information you need an_f4055d")): Object: 'Object Repository/Page_Market Intelligence Platform/div_Find the market information you need an_f4055d' is clicked on
+
+2023-01-23 15:06:14 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Market Intelligence Platform/div_Find the market information you need an_f4055d' is clicked on
+
+2023-01-23 15:06:14 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Market Intelligence Platform/a_I need a Competitor trackingreport")): Object: 'Object Repository/Page_Market Intelligence Platform/a_I need a Competitor trackingreport' is clicked on
+
+2023-01-23 15:06:15 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Market Intelligence Platform/a_I need a Competitor trackingreport' is clicked on
+
+2023-01-23 15:06:15 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Market Intelligence Platform/img_Market Intelligence Platform_mip-header_e49a12")): Object: 'Object Repository/Page_Market Intelligence Platform/img_Market Intelligence Platform_mip-header_e49a12' is clicked on
+
+2023-01-23 15:06:16 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Market Intelligence Platform/img_Market Intelligence Platform_mip-header_e49a12' is clicked on
+
+2023-01-23 15:06:16 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Market Intelligence Platform/a_I need to learn about the Analyst perspec_3de133")): Object: 'Object Repository/Page_Market Intelligence Platform/a_I need to learn about the Analyst perspec_3de133' is clicked on
+
+2023-01-23 15:06:18 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Market Intelligence Platform/a_I need to learn about the Analyst perspec_3de133' is clicked on
+
+2023-01-23 15:06:18 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Market Intelligence Platform/img_Market Intelligence Platform_mip-header_e49a12")): Object: 'Object Repository/Page_Market Intelligence Platform/img_Market Intelligence Platform_mip-header_e49a12' is clicked on
+
+2023-01-23 15:06:19 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Market Intelligence Platform/img_Market Intelligence Platform_mip-header_e49a12' is clicked on
+
+2023-01-23 15:06:19 - [TEST_STEP][PASSED] - verifyElementClickable(findTestObject("Page_Market Intelligence Platform/a_I need to know the Insurance Portfolio")): Object 'Object Repository/Page_Market Intelligence Platform/a_I need to know the Insurance Portfolio' is clickable
+
+2023-01-23 15:06:20 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Market Intelligence Platform/a_I need to know the Insurance Portfolio' is clickable
+
+2023-01-23 15:06:20 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Market Intelligence Platform/a_I need to know the Insurance Portfolio")): Object: 'Object Repository/Page_Market Intelligence Platform/a_I need to know the Insurance Portfolio' is clicked on
+
+2023-01-23 15:06:21 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Market Intelligence Platform/a_I need to know the Insurance Portfolio' is clicked on
+
+2023-01-23 15:06:21 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-01-23 15:06:22 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Home/17-Verificar respuesta responsive" time="25.14" classname="Test Cases/Home/17-Verificar respuesta responsive" status="PASSED">
+         <system-out><![CDATA[2023-01-23 15:06:22 - [TEST_CASE][PASSED] - Test Cases/Home/17-Verificar respuesta responsive: Test Cases/Home/17-Verificar respuesta responsive
+
+2023-01-23 15:06:22 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-01-23 15:06:22 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-01-23 15:06:22 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-01-23 15:06:24 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-01-23 15:06:24 - [TEST_STEP][PASSED] - navigateToUrl("https://mip.eassets.emeal.nttdata.com/home"): Navigate to 'https://mip.eassets.emeal.nttdata.com/home' successfully
+
+2023-01-23 15:06:40 - [MESSAGE][PASSED] - Navigate to 'https://mip.eassets.emeal.nttdata.com/home' successfully
+
+2023-01-23 15:06:40 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Market Intelligence Platform/button_Continue")): Object: 'Object Repository/Page_Market Intelligence Platform/button_Continue' is clicked on
+
+2023-01-23 15:06:41 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Market Intelligence Platform/button_Continue' is clicked on
+
+2023-01-23 15:06:41 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Market Intelligence Platform/span_Privacy policy_mat-checkbox-inner-container")): Object: 'Object Repository/Page_Market Intelligence Platform/span_Privacy policy_mat-checkbox-inner-container' is clicked on
+
+2023-01-23 15:06:41 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Market Intelligence Platform/span_Privacy policy_mat-checkbox-inner-container' is clicked on
+
+2023-01-23 15:06:41 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Market Intelligence Platform/span_Terms of use_mat-checkbox-inner-container")): Object: 'Object Repository/Page_Market Intelligence Platform/span_Terms of use_mat-checkbox-inner-container' is clicked on
+
+2023-01-23 15:06:42 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Market Intelligence Platform/span_Terms of use_mat-checkbox-inner-container' is clicked on
+
+2023-01-23 15:06:42 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Market Intelligence Platform/button_Continue")): Object: 'Object Repository/Page_Market Intelligence Platform/button_Continue' is clicked on
+
+2023-01-23 15:06:43 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Market Intelligence Platform/button_Continue' is clicked on
+
+2023-01-23 15:06:43 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Market Intelligence Platform/mat-icon_close")): Object: 'Object Repository/Page_Market Intelligence Platform/mat-icon_close' is clicked on
+
+2023-01-23 15:06:44 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Market Intelligence Platform/mat-icon_close' is clicked on
+
+2023-01-23 15:06:44 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Market Intelligence Platform/button_Continue")): Object: 'Object Repository/Page_Market Intelligence Platform/button_Continue' is clicked on
+
+2023-01-23 15:06:44 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Market Intelligence Platform/button_Continue' is clicked on
+
+2023-01-23 15:06:44 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2023-01-23 15:06:44 - [MESSAGE][PASSED] - Current window maximized
+
+2023-01-23 15:06:44 - [TEST_STEP][PASSED] - deleteAllCookies(): Delete all cookies successfully
+
+2023-01-23 15:06:44 - [MESSAGE][PASSED] - Delete all cookies successfully
+
+2023-01-23 15:06:44 - [TEST_STEP][PASSED] - setViewPortSize(360, 800): Viewport is set to new size with width = 360 and height = 800
+
+2023-01-23 15:06:45 - [MESSAGE][PASSED] - Viewport is set to new size with width = 360 and height = 800
+
+2023-01-23 15:06:45 - [TEST_STEP][PASSED] - setViewPortSize(412, 919): Viewport is set to new size with width = 412 and height = 919
+
+2023-01-23 15:06:45 - [MESSAGE][PASSED] - Viewport is set to new size with width = 412 and height = 919
+
+2023-01-23 15:06:45 - [TEST_STEP][PASSED] - setViewPortSize(360, 780): Viewport is set to new size with width = 360 and height = 780
+
+2023-01-23 15:06:45 - [MESSAGE][PASSED] - Viewport is set to new size with width = 360 and height = 780
+
+2023-01-23 15:06:45 - [TEST_STEP][PASSED] - setViewPortSize(390, 844): Viewport is set to new size with width = 390 and height = 844
+
+2023-01-23 15:06:45 - [MESSAGE][PASSED] - Viewport is set to new size with width = 390 and height = 844
+
+2023-01-23 15:06:45 - [TEST_STEP][PASSED] - setViewPortSize(428, 926): Viewport is set to new size with width = 428 and height = 926
+
+2023-01-23 15:06:45 - [MESSAGE][PASSED] - Viewport is set to new size with width = 428 and height = 926
+
+2023-01-23 15:06:45 - [TEST_STEP][PASSED] - setViewPortSize(1280, 800): Viewport is set to new size with width = 1280 and height = 800
+
+2023-01-23 15:06:45 - [MESSAGE][PASSED] - Viewport is set to new size with width = 1280 and height = 800
+
+2023-01-23 15:06:45 - [TEST_STEP][PASSED] - setViewPortSize(834, 1180): Viewport is set to new size with width = 834 and height = 1180
+
+2023-01-23 15:06:46 - [MESSAGE][PASSED] - Viewport is set to new size with width = 834 and height = 1180
+
+2023-01-23 15:06:46 - [TEST_STEP][PASSED] - setViewPortSize(1024, 1366): Viewport is set to new size with width = 1024 and height = 1366
+
+2023-01-23 15:06:46 - [MESSAGE][PASSED] - Viewport is set to new size with width = 1024 and height = 1366
+
+2023-01-23 15:06:46 - [TEST_STEP][PASSED] - setViewPortSize(810, 1080): Viewport is set to new size with width = 810 and height = 1080
+
+2023-01-23 15:06:46 - [MESSAGE][PASSED] - Viewport is set to new size with width = 810 and height = 1080
+
+2023-01-23 15:06:46 - [TEST_STEP][PASSED] - setViewPortSize(768, 1024): Viewport is set to new size with width = 768 and height = 1024
+
+2023-01-23 15:06:46 - [MESSAGE][PASSED] - Viewport is set to new size with width = 768 and height = 1024
+
+2023-01-23 15:06:46 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-01-23 15:06:47 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Home/18-Verificar direccionamiento del logo MIP" time="23.601" classname="Test Cases/Home/18-Verificar direccionamiento del logo MIP" status="PASSED">
+         <system-out><![CDATA[2023-01-23 15:06:47 - [TEST_CASE][PASSED] - Test Cases/Home/18-Verificar direccionamiento del logo MIP: Test Cases/Home/18-Verificar direccionamiento del logo MIP
+
+2023-01-23 15:06:47 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Casos de prueba transversales/NavegacionInicialDev"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/Casos de prueba transversales/NavegacionInicialDev' successfully
+
+2023-01-23 15:06:47 - [TEST_CASE][PASSED] - Test Cases/Casos de prueba transversales/NavegacionInicialDev: Test Cases/Casos de prueba transversales/NavegacionInicialDev
+
+2023-01-23 15:06:48 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-01-23 15:06:48 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-01-23 15:06:48 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-01-23 15:06:49 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-01-23 15:06:49 - [TEST_STEP][PASSED] - navigateToUrl("https://mip.eassets.emeal.nttdata.com/home"): Navigate to 'https://mip.eassets.emeal.nttdata.com/home' successfully
+
+2023-01-23 15:07:05 - [MESSAGE][PASSED] - Navigate to 'https://mip.eassets.emeal.nttdata.com/home' successfully
+
+2023-01-23 15:07:05 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Market Intelligence Platform/button_Continue")): Object: 'Object Repository/Page_Market Intelligence Platform/button_Continue' is clicked on
+
+2023-01-23 15:07:06 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Market Intelligence Platform/button_Continue' is clicked on
+
+2023-01-23 15:07:06 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Market Intelligence Platform/span_Privacy policy_mat-checkbox-inner-container")): Object: 'Object Repository/Page_Market Intelligence Platform/span_Privacy policy_mat-checkbox-inner-container' is clicked on
+
+2023-01-23 15:07:06 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Market Intelligence Platform/span_Privacy policy_mat-checkbox-inner-container' is clicked on
+
+2023-01-23 15:07:06 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Market Intelligence Platform/span_Terms of use_mat-checkbox-inner-container")): Object: 'Object Repository/Page_Market Intelligence Platform/span_Terms of use_mat-checkbox-inner-container' is clicked on
+
+2023-01-23 15:07:07 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Market Intelligence Platform/span_Terms of use_mat-checkbox-inner-container' is clicked on
+
+2023-01-23 15:07:07 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Market Intelligence Platform/button_Continue")): Object: 'Object Repository/Page_Market Intelligence Platform/button_Continue' is clicked on
+
+2023-01-23 15:07:08 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Market Intelligence Platform/button_Continue' is clicked on
+
+2023-01-23 15:07:08 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Market Intelligence Platform/mat-icon_close")): Object: 'Object Repository/Page_Market Intelligence Platform/mat-icon_close' is clicked on
+
+2023-01-23 15:07:08 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Market Intelligence Platform/mat-icon_close' is clicked on
+
+2023-01-23 15:07:08 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Market Intelligence Platform/button_Continue")): Object: 'Object Repository/Page_Market Intelligence Platform/button_Continue' is clicked on
+
+2023-01-23 15:07:09 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Market Intelligence Platform/button_Continue' is clicked on
+
+2023-01-23 15:07:09 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Casos de prueba transversales/NavegacionInicialDev' successfully
+
+2023-01-23 15:07:09 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Market Intelligence Platform/img_Market Intelligence Platform_mip-header_e49a12")): Object: 'Object Repository/Page_Market Intelligence Platform/img_Market Intelligence Platform_mip-header_e49a12' is clicked on
+
+2023-01-23 15:07:09 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Market Intelligence Platform/img_Market Intelligence Platform_mip-header_e49a12' is clicked on
+
+2023-01-23 15:07:09 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-01-23 15:07:10 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2023-01-23 15:03:57 - [TEST_SUITE][PASSED] - TestSuite1: Test Cases/Home/18-Verificar direccionamiento del logo MIP]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

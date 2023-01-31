@@ -1,0 +1,7 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TestSuite1,Chrome 109.0.0.0,,,2023-01-23 14:52:49,2023-01-23 14:53:29,"40,720s",FAILED
+,,,,,,,
+Test Cases/CompaniesCompetitors/EjemploValidacion,Chrome 109.0.0.0,"Verificar la funcion de busqueda de la caja input ""search competitor""",,2023-01-23 14:52:49,2023-01-23 14:53:29,"40,312s",FAILED
+"openBrowser("""")",Chrome 109.0.0.0,,,2023-01-23 14:52:49,2023-01-23 14:52:53,"3,492s",PASSED
+"navigateToUrl(""https://mip.eassets.emeal.nttdata.com"")",Chrome 109.0.0.0,,,2023-01-23 14:52:53,2023-01-23 14:53:19,"26,308s",PASSED
+"click(findTestObject(""Object Repository/Page_Market Intelligence Platform/button_Continue""))",Chrome 109.0.0.0,,,2023-01-23 14:53:19,2023-01-23 14:53:29,"9,915s",FAILED

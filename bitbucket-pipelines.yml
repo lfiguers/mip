@@ -1,0 +1,11 @@
+image: openjdk:8
+
+pipelines:
+  default:
+    - step:
+        name: Run Katalon Tests
+        script:
+          - apt-get update
+          - apt-get install -y katalon
+          - katalon -noSplash -runMode=console -projectPath="$BITBUCKET_CLONE_DIR/mip_katalon_test" -retry=0 -testSuitePath="TestSuite1" -executionProfile="default"
+

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Find the market information you need an_f4055d</name>
+   <tag></tag>
+   <elementGuidId>95c8a475-11bf-4a66-aa70-35c21fe667f7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.flex-layout</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Privacy policy'])[1]/following::div[7]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1912d811-a7fe-4c97-a42c-fd3635398d10</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fxlayout</name>
+      <type>Main</type>
+      <value>row wrap</value>
+      <webElementGuid>50105065-0726-4228-8a9e-e6835f9cdd13</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fxlayout.xs</name>
+      <type>Main</type>
+      <value>column</value>
+      <webElementGuid>52dbdb42-f487-4bce-b0eb-38c579a36907</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fxlayoutalign.gt-md</name>
+      <type>Main</type>
+      <value>center</value>
+      <webElementGuid>dc1d9779-1a18-4e30-be2e-b4eacc95ce9a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fxlayoutgap</name>
+      <type>Main</type>
+      <value>5rem</value>
+      <webElementGuid>54a30a45-170f-4d41-87fa-5066ce828959</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex-layout</value>
+      <webElementGuid>d90cb5b1-c1e2-462c-a14b-231fc109b5f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Find the market information you need and our value proposition in one place Empowering our executives and sales units with valuable data  and insights to gain a competitive edge Market InformationExternal Market Information using insights from different relevant sources to enhace your competitive decision making:Market Landscape • Companies • Analysts • Innovation Trends • Corporate ResearchsearchValue Proposition Internal information to increase our capabilities by using value and success data from our organization:Offering &amp; Capabilities • Knowledge Management OfficeUse casesGet to know our most successful use cases and get a glimpse at how we can help you face your business challenges.“I need a Competitor tracking/report”location_on_outlineCompanies > Competitors“I need to learn about the Analyst perspective on a Topic” location_on_outlineAnalysts > What they say about specific topics“I need to know the Insurance Portfolio” location_on_outlineOffering &amp; Capabilities > Global Portfolio </value>
+      <webElementGuid>903cb4f9-d3b5-44f0-a56d-8bb736c6ab57</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/div[@class=&quot;mip-app&quot;]/div[@class=&quot;mip-app__main-row&quot;]/div[@class=&quot;mip-app__main-row__main-column&quot;]/div[@class=&quot;mip-app__main-row__main-column__content mip-app__main-row__main-column__content--home&quot;]/mip-home[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;mip-home-landing&quot;]/section[@class=&quot;mip-home__main-section&quot;]/div[@class=&quot;mip-home__main-section--content&quot;]/div[@class=&quot;flex-layout&quot;]</value>
+      <webElementGuid>c7376aee-69e5-4366-8be8-066c1713f79e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Privacy policy'])[1]/following::div[7]</value>
+      <webElementGuid>731b9c83-9e9b-4380-800e-9d4c8ab62579</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='.'])[1]/following::div[7]</value>
+      <webElementGuid>1ddf647c-97f9-4ea7-a645-d1d32fbec9ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div[2]/div</value>
+      <webElementGuid>de96820d-af58-44db-93ea-b808e148e89b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Find the market information you need and our value proposition in one place Empowering our executives and sales units with valuable data  and insights to gain a competitive edge Market InformationExternal Market Information using insights from different relevant sources to enhace your competitive decision making:Market Landscape • Companies • Analysts • Innovation Trends • Corporate ResearchsearchValue Proposition Internal information to increase our capabilities by using value and success data from our organization:Offering &amp; Capabilities • Knowledge Management OfficeUse casesGet to know our most successful use cases and get a glimpse at how we can help you face your business challenges.“I need a Competitor tracking/report”location_on_outlineCompanies > Competitors“I need to learn about the Analyst perspective on a Topic” location_on_outlineAnalysts > What they say about specific topics“I need to know the Insurance Portfolio” location_on_outlineOffering &amp; Capabilities > Global Portfolio ' or . = 'Find the market information you need and our value proposition in one place Empowering our executives and sales units with valuable data  and insights to gain a competitive edge Market InformationExternal Market Information using insights from different relevant sources to enhace your competitive decision making:Market Landscape • Companies • Analysts • Innovation Trends • Corporate ResearchsearchValue Proposition Internal information to increase our capabilities by using value and success data from our organization:Offering &amp; Capabilities • Knowledge Management OfficeUse casesGet to know our most successful use cases and get a glimpse at how we can help you face your business challenges.“I need a Competitor tracking/report”location_on_outlineCompanies > Competitors“I need to learn about the Analyst perspective on a Topic” location_on_outlineAnalysts > What they say about specific topics“I need to know the Insurance Portfolio” location_on_outlineOffering &amp; Capabilities > Global Portfolio ')]</value>
+      <webElementGuid>84a6265e-3f86-4a87-b86f-bf28e1bc3e0a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

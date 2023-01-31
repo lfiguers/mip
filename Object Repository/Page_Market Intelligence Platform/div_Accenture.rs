@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Accenture</name>
+   <tag></tag>
+   <elementGuidId>afd0a1b2-2749-427c-8938-2b55229c9fc8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='competitors'])[1]/following::div[14]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.mip-searcher__options__list__option.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7381f64a-0514-43f2-b7de-91f40846a267</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mip-searcher__options__list__option ng-star-inserted</value>
+      <webElementGuid>66e69191-ca9a-4706-80e8-04fbfb9cc3cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Accenture</value>
+      <webElementGuid>20de0ade-a095-4fd4-9040-3e3a1846896c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/div[@class=&quot;mip-app&quot;]/div[@class=&quot;mip-app__main-row&quot;]/div[@class=&quot;mip-app__main-row__main-column&quot;]/div[@class=&quot;mip-app__main-row__main-column__content&quot;]/mip-companies[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;mip-dashboard mip-competitors-landing&quot;]/div[@class=&quot;mip-dashboard__row--biggest&quot;]/mip-section[@class=&quot;mip-section--big mip-competitors-landing__header&quot;]/div[@class=&quot;mip-section mip-section--big&quot;]/div[@class=&quot;mip-companies__search ng-star-inserted&quot;]/mip-searcher[1]/div[@class=&quot;mip-searcher__box mip-searcher__box__focus&quot;]/div[@class=&quot;mip-searcher mip-searcher--focus mip-searcher--focus-and-dropdown&quot;]/mip-searcher-with-dropdown-back[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;mip-searcher__dropdown-container&quot;]/div[@class=&quot;mip-searcher__options ng-star-inserted&quot;]/div[@class=&quot;mip-searcher__options__list&quot;]/div[@class=&quot;mip-searcher__options__list__option ng-star-inserted&quot;]</value>
+      <webElementGuid>ec02b93d-4335-4217-9cea-102c5a3c90ab</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='competitors'])[1]/following::div[14]</value>
+      <webElementGuid>889ae29b-1b41-4088-8ab7-2e5490b8f659</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Companies'])[2]/following::div[14]</value>
+      <webElementGuid>e9a1be8a-39ff-4dd8-a689-c51f087f3c7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All'])[1]/preceding::div[54]</value>
+      <webElementGuid>926f59bc-fcb9-4d7d-9854-0349c850affe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Top Global'])[1]/preceding::div[54]</value>
+      <webElementGuid>dd402c74-3d09-4762-9c14-19d37d346f30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mip-searcher-with-dropdown-back/div/div/div/div</value>
+      <webElementGuid>0bd640c3-3474-498c-b2d5-06eb6e5a757a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Accenture' or . = 'Accenture')]</value>
+      <webElementGuid>12d70a9d-a954-48a5-b08a-72b4c8d3e8d3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

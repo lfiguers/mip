@@ -1,0 +1,147 @@
+[33mcommit 536a1348105802f85df2f6a979acde1ecc9b2021[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: f22340c 999699e
+Author: Leonardo Figueroa Sandoval <lfiguers@emeal.nttdata.com>
+Date:   Mon Jan 16 10:33:33 2023 -0300
+
+    test commit
+
+[33mcommit f22340c3d3be5a2f583a481c74ddc734d754e0e0[m
+Author: Leonardo Figueroa Sandoval <lfiguers@emeal.nttdata.com>
+Date:   Fri Jan 13 17:17:40 2023 -0300
+
+    cambio de url https://mip.eassets.emeal.nttdata.com en test case de ejemplo
+
+[33mcommit 999699ed1195f6ed5beb04b29a7de524fe866e17[m
+Author: lfiguers <lfiguers@emeal.nttdata.com>
+Date:   Fri Jan 13 20:06:44 2023 +0000
+
+    Update azure-pipelines.yml for Azure Pipelines
+
+[33mcommit e8d4b0fe73b3f738b1b1151769c29642b03906ef[m
+Author: lfiguers <lfiguers@emeal.nttdata.com>
+Date:   Fri Jan 13 20:03:44 2023 +0000
+
+    Update azure-pipelines.yml for Azure Pipelines
+
+[33mcommit f999468e8995851947ebd65c82e35a13733a3b7d[m
+Author: lfiguers <lfiguers@emeal.nttdata.com>
+Date:   Fri Jan 13 20:02:27 2023 +0000
+
+    Update azure-pipelines.yml for Azure Pipelines
+
+[33mcommit a9e1d54397ea925261d78dd638a29bdd08cc5f3a[m
+Author: lfiguers <lfiguers@emeal.nttdata.com>
+Date:   Fri Jan 13 19:32:57 2023 +0000
+
+    Update azure-pipelines.yml for Azure Pipelines
+
+[33mcommit 0f35551926b46aed9c5cda58debedafb01db9267[m
+Author: lfiguers <lfiguers@emeal.nttdata.com>
+Date:   Fri Jan 13 19:29:21 2023 +0000
+
+    Update azure-pipelines.yml for Azure Pipelines
+
+[33mcommit bc4e64c2da8349c5b5db0c22d8371280448fd451[m
+Merge: 9a68ec2 63b5fa4
+Author: Leonardo Figueroa Sandoval <lfiguers@emeal.nttdata.com>
+Date:   Fri Jan 13 16:16:00 2023 -0300
+
+    Merge branch 'master' of https://dev.azure.com/trendnology/qa-testing/_git/MIP_katalon_test
+
+[33mcommit 9a68ec257ca04ad45ebf805f97470acf730f2a68[m
+Author: Leonardo Figueroa Sandoval <lfiguers@emeal.nttdata.com>
+Date:   Fri Jan 13 16:15:17 2023 -0300
+
+    se crea suite1 para testear ejecucion de pipeline
+
+[33mcommit 63b5fa4342ad835842f03bc7ad9ae27a9bbfdd3d[m
+Author: lfiguers <lfiguers@emeal.nttdata.com>
+Date:   Fri Jan 13 19:14:42 2023 +0000
+
+    Updated azure-pipelines.yml
+
+[33mcommit e5ad5cbb10cba9452b4ef7b2315c5c72c14d4c25[m
+Author: Leonardo Figueroa Sandoval <lfiguers@emeal.nttdata.com>
+Date:   Fri Jan 13 15:49:08 2023 -0300
+
+    se elimina caso de prueba vacio desde terminal
+
+[33mcommit 7d53e97a0192e082b0b5c4ebed893b8a60d0a072[m
+Author: lfiguers <lfiguers@ZCO-DFMGTT2.usersad.everis.int>
+Date:   Fri Jan 13 15:44:01 2023 -0300
+
+    commit de prueba agreando un test case vacio
+
+[33mcommit 1e76ee30b698b071a42fc5481b1ddb31c92bd11f[m
+Author: lfiguers <lfiguers@ZCO-DFMGTT2.usersad.everis.int>
+Date:   Fri Jan 13 15:33:01 2023 -0300
+
+    commit previo a cambio de repo
+
+[33mcommit c159e33860a831774afdd68ebcc0a2b8c5e1223a[m
+Author: Leonardo Figueroa Sandoval <lfiguers@emeal.nttdata.com>
+Date:   Wed Jan 4 15:03:11 2023 +0000
+
+    Update azure-pipelines.yml for Azure Pipelines Ubuntu
+
+[33mcommit 6f87ee590f8635271ccab052a54e0d8461cc3787[m
+Author: Leonardo Figueroa Sandoval <lfiguers@emeal.nttdata.com>
+Date:   Tue Jan 3 13:56:41 2023 +0000
+
+    Update azure-pipelines.yml for Azure Pipelines
+
+[33mcommit 71d8b38f218a6b83fd45a219aed9b69a95486da3[m
+Author: Leonardo Figueroa Sandoval <lfiguers@emeal.nttdata.com>
+Date:   Tue Jan 3 13:54:43 2023 +0000
+
+    Update azure-pipelines.yml for Azure Pipelines
+
+[33mcommit 97ec44851eaded9d4723e28eabf33701f2d73c25[m
+Author: Leonardo Figueroa Sandoval <lfiguers@emeal.nttdata.com>
+Date:   Tue Jan 3 13:53:29 2023 +0000
+
+    Update azure-pipelines.yml for Azure Pipelines
+
+[33mcommit 6c0ca4e811efa3c91f72fd0576d4fad717a9b9ad[m
+Author: Leonardo Figueroa Sandoval <lfiguers@emeal.nttdata.com>
+Date:   Fri Dec 30 15:57:33 2022 +0000
+
+    Updated azure-pipelines.yml
+
+[33mcommit d172df0b47eb86bf90e75ef946c9a943e6b25413[m
+Author: Leonardo Figueroa Sandoval <lfiguers@emeal.nttdata.com>
+Date:   Fri Dec 30 14:26:33 2022 +0000
+
+    Updated azure-pipelines.yml
+
+[33mcommit 3b1ed00ccbb7bb1d8978005fd419371c7d4935fb[m
+Author: Leonardo Figueroa Sandoval <lfiguers@emeal.nttdata.com>
+Date:   Fri Dec 30 13:53:10 2022 +0000
+
+    Set up CI with Azure Pipelines
+    
+    [skip ci]
+
+[33mcommit 57bc061f0de84d6e2ecb12c766151ed91c24d0cf[m
+Author: Leonardo Figueroa <lfiguers@emeal.nttdata.com>
+Date:   Fri Dec 30 10:09:41 2022 -0300
+
+    add .project
+
+[33mcommit 47219715931ffd09a2dbf838b36dc5be180c06b0[m
+Author: Leonardo Figueroa <lfiguers@emeal.nttdata.com>
+Date:   Fri Dec 30 10:09:25 2022 -0300
+
+    add test
+
+[33mcommit 765ba9934e045d2c81434b33f8297365615c793c[m
+Author: Leonardo Figueroa <lfiguers@emeal.nttdata.com>
+Date:   Fri Dec 30 10:00:02 2022 -0300
+
+    add first test
+
+[33mcommit 2ad0a92b6de95de20ecf68b68c8aac386b84a59e[m
+Author: Leonardo Figueroa <lfiguers@emeal.nttdata.com>
+Date:   Thu Dec 29 17:38:46 2022 -0300
+
+    add project to azure repository

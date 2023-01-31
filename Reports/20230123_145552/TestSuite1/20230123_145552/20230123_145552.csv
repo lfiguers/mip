@@ -1,0 +1,91 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TestSuite1,Chrome 109.0.0.0,,,2023-01-23 14:55:56,2023-01-23 14:58:48,"2m - 52,782s",PASSED
+,,,,,,,
+Test Cases/CompaniesCompetitors/EjemploValidacion,Chrome 109.0.0.0,"Verificar la funcion de busqueda de la caja input ""search competitor""",,2023-01-23 14:55:56,2023-01-23 14:56:58,"1m - 1,833s",PASSED
+"openBrowser("""")",Chrome 109.0.0.0,,,2023-01-23 14:55:56,2023-01-23 14:56:00,"3,684s",PASSED
+"navigateToUrl(""https://mip.eassets.emeal.nttdata.com"")",Chrome 109.0.0.0,,,2023-01-23 14:56:00,2023-01-23 14:56:17,"17,278s",PASSED
+"click(findTestObject(""Object Repository/Page_Market Intelligence Platform/button_Continue""))",Chrome 109.0.0.0,,,2023-01-23 14:56:17,2023-01-23 14:56:18,"0,556s",PASSED
+"click(findTestObject(""Object Repository/Page_Market Intelligence Platform/span_Privacy policy_mat-checkbox-inner-container""))",Chrome 109.0.0.0,,,2023-01-23 14:56:18,2023-01-23 14:56:18,"0,519s",PASSED
+"click(findTestObject(""Object Repository/Page_Market Intelligence Platform/span_Terms of use_mat-checkbox-inner-container""))",Chrome 109.0.0.0,,,2023-01-23 14:56:18,2023-01-23 14:56:19,"0,851s",PASSED
+"click(findTestObject(""Object Repository/Page_Market Intelligence Platform/button_Continue""))",Chrome 109.0.0.0,,,2023-01-23 14:56:19,2023-01-23 14:56:20,"0,851s",PASSED
+"click(findTestObject(""Object Repository/Page_Market Intelligence Platform/mat-icon_close""))",Chrome 109.0.0.0,,,2023-01-23 14:56:20,2023-01-23 14:56:21,"0,493s",PASSED
+"click(findTestObject(""Object Repository/Page_Market Intelligence Platform/button_Continue""))",Chrome 109.0.0.0,,,2023-01-23 14:56:21,2023-01-23 14:56:21,"0,509s",PASSED
+"click(findTestObject(""Object Repository/Page_Market Intelligence Platform/mat-icon_navigate_before""))",Chrome 109.0.0.0,,,2023-01-23 14:56:21,2023-01-23 14:56:22,"0,503s",PASSED
+"click(findTestObject(""Object Repository/Page_Market Intelligence Platform/a_apartmentCompaniesexpand_more""))",Chrome 109.0.0.0,,,2023-01-23 14:56:22,2023-01-23 14:56:22,"0,532s",PASSED
+"click(findTestObject(""Object Repository/Page_Market Intelligence Platform/label_Competitors""))",Chrome 109.0.0.0,,,2023-01-23 14:56:22,2023-01-23 14:56:23,"0,574s",PASSED
+"click(findTestObject(""Object Repository/Page_Market Intelligence Platform/td_61.594.305.000""))",Chrome 109.0.0.0,,,2023-01-23 14:56:23,2023-01-23 14:56:26,"3,598s",PASSED
+"click(findTestObject(""Object Repository/Page_Market Intelligence Platform/span_Accenture""))",Chrome 109.0.0.0,,,2023-01-23 14:56:26,2023-01-23 14:56:27,"0,580s",PASSED
+"click(findTestObject(""Object Repository/Page_Market Intelligence Platform/td_61.594.305.000""))",Chrome 109.0.0.0,,,2023-01-23 14:56:27,2023-01-23 14:56:36,"9,504s",PASSED
+"click(findTestObject(""Object Repository/Page_Market Intelligence Platform/a_Accenture to acquire SKS Group""))",Chrome 109.0.0.0,,,2023-01-23 14:56:36,2023-01-23 14:56:37,"0,664s",PASSED
+delay(15),Chrome 109.0.0.0,"link de la noticia
+",,2023-01-23 14:56:37,2023-01-23 14:56:52,"15,055s",PASSED
+"verifyTextPresent(""Accenture to acquire SKS Group"", false)",Chrome 109.0.0.0,"verificar que el titulo este visible
+",,2023-01-23 14:56:52,2023-01-23 14:56:54,"2,153s",PASSED
+"switchToWindowTitle(""Accenture to acquire SKS Group"")",Chrome 109.0.0.0,"Se cambia de ventana a a de UptoDate
+",,2023-01-23 14:56:54,2023-01-23 14:56:54,"0,122s",PASSED
+"verifyElementText(findTestObject(""ObjetosManuales/Page_Accenture to acquire SKS Group/h2_Accenture to acquire SKS Group_Uptodate""), ""Accenture to acquire SKS Group"")",Chrome 109.0.0.0,,,2023-01-23 14:56:54,2023-01-23 14:56:56,"1,873s",PASSED
+"click(findTestObject(""Object Repository/Page_Accenture to acquire SKS Group/h2_Accenture to acquire SKS Group""))",Chrome 109.0.0.0,,,2023-01-23 14:56:56,2023-01-23 14:56:57,"0,460s",PASSED
+"click(findTestObject(""Object Repository/Page_Accenture to acquire SKS Group/div_Accenture to acquire SKS Group143 min r_70339d""))",Chrome 109.0.0.0,,,2023-01-23 14:56:57,2023-01-23 14:56:57,"0,568s",PASSED
+"click(findTestObject(""Object Repository/Page_Accenture to acquire SKS Group/h2_Accenture to acquire SKS Group""))",Chrome 109.0.0.0,,,2023-01-23 14:56:57,2023-01-23 14:56:58,"0,381s",PASSED
+,,,,,,,
+Test Cases/Home/15-Verificar correcto funcionamiento del buscador Search Market information,Chrome 109.0.0.0,,,2023-01-23 14:56:58,2023-01-23 14:57:30,"32,243s",PASSED
+"openBrowser("""")",Chrome 109.0.0.0,,,2023-01-23 14:56:58,2023-01-23 14:57:01,"2,551s",PASSED
+"navigateToUrl(""https://mip.eassets.emeal.nttdata.com/home"")",Chrome 109.0.0.0,,,2023-01-23 14:57:01,2023-01-23 14:57:17,"16,389s",PASSED
+"click(findTestObject(""Object Repository/Page_Market Intelligence Platform/button_Continue""))",Chrome 109.0.0.0,,,2023-01-23 14:57:17,2023-01-23 14:57:18,"0,593s",PASSED
+"click(findTestObject(""Object Repository/Page_Market Intelligence Platform/span_I have read the Terms of use""))",Chrome 109.0.0.0,,,2023-01-23 14:57:18,2023-01-23 14:57:18,"0,553s",PASSED
+"click(findTestObject(""Object Repository/Page_Market Intelligence Platform/label_I have read and agree to the Privacy policy""))",Chrome 109.0.0.0,,,2023-01-23 14:57:18,2023-01-23 14:57:19,"0,901s",PASSED
+"click(findTestObject(""Object Repository/Page_Market Intelligence Platform/button_Continue""))",Chrome 109.0.0.0,,,2023-01-23 14:57:19,2023-01-23 14:57:20,"0,569s",PASSED
+"click(findTestObject(""Object Repository/Page_Market Intelligence Platform/mat-icon_close""))",Chrome 109.0.0.0,,,2023-01-23 14:57:20,2023-01-23 14:57:22,"2,259s",PASSED
+"click(findTestObject(""Object Repository/Page_Market Intelligence Platform/button_Continue""))",Chrome 109.0.0.0,,,2023-01-23 14:57:22,2023-01-23 14:57:24,"1,942s",PASSED
+"setText(findTestObject(""Object Repository/Page_Market Intelligence Platform/input_Market Landscape  Companies  Analysts_fbd6ca""), ""Market Landscape"")",Chrome 109.0.0.0,,,2023-01-23 14:57:24,2023-01-23 14:57:28,"4,105s",PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Market Intelligence Platform/input_Market Landscape  Companies  Analysts_fbd6ca""), Keys.chord(ENTER))",Chrome 109.0.0.0,,,2023-01-23 14:57:28,2023-01-23 14:57:30,"1,941s",PASSED
+,,,,,,,
+Test Cases/Home/16-Verificar Link Laterales,Chrome 109.0.0.0,"Verificar correcto funcionamiento del buscador ""Search Market information""",,2023-01-23 14:57:30,2023-01-23 14:57:59,"29,248s",PASSED
+"openBrowser("""")",Chrome 109.0.0.0,,,2023-01-23 14:57:31,2023-01-23 14:57:33,"2,409s",PASSED
+"navigateToUrl(""https://mip.eassets.emeal.nttdata.com/home"")",Chrome 109.0.0.0,,,2023-01-23 14:57:33,2023-01-23 14:57:48,"15,178s",PASSED
+"click(findTestObject(""Object Repository/Page_Market Intelligence Platform/button_Continue""))",Chrome 109.0.0.0,,,2023-01-23 14:57:48,2023-01-23 14:57:49,"0,498s",PASSED
+"click(findTestObject(""Object Repository/Page_Market Intelligence Platform/span_Privacy policy_mat-checkbox-inner-container""))",Chrome 109.0.0.0,,,2023-01-23 14:57:49,2023-01-23 14:57:49,"0,616s",PASSED
+"click(findTestObject(""Object Repository/Page_Market Intelligence Platform/span_Terms of use_mat-checkbox-inner-container""))",Chrome 109.0.0.0,,,2023-01-23 14:57:49,2023-01-23 14:57:50,"0,817s",PASSED
+"click(findTestObject(""Object Repository/Page_Market Intelligence Platform/button_Continue""))",Chrome 109.0.0.0,,,2023-01-23 14:57:50,2023-01-23 14:57:51,"0,845s",PASSED
+"click(findTestObject(""Object Repository/Page_Market Intelligence Platform/mat-icon_close""))",Chrome 109.0.0.0,,,2023-01-23 14:57:51,2023-01-23 14:57:51,"0,507s",PASSED
+"click(findTestObject(""Object Repository/Page_Market Intelligence Platform/button_Continue""))",Chrome 109.0.0.0,,,2023-01-23 14:57:51,2023-01-23 14:57:52,"0,503s",PASSED
+"click(findTestObject(""Object Repository/Page_Market Intelligence Platform/div_Find the market information you need an_f4055d""))",Chrome 109.0.0.0,,,2023-01-23 14:57:52,2023-01-23 14:57:52,"0,497s",PASSED
+"click(findTestObject(""Object Repository/Page_Market Intelligence Platform/a_I need a Competitor trackingreport""))",Chrome 109.0.0.0,,,2023-01-23 14:57:52,2023-01-23 14:57:53,"0,395s",PASSED
+"click(findTestObject(""Object Repository/Page_Market Intelligence Platform/img_Market Intelligence Platform_mip-header_e49a12""))",Chrome 109.0.0.0,,,2023-01-23 14:57:53,2023-01-23 14:57:54,"1,592s",PASSED
+"click(findTestObject(""Object Repository/Page_Market Intelligence Platform/a_I need to learn about the Analyst perspec_3de133""))",Chrome 109.0.0.0,,,2023-01-23 14:57:54,2023-01-23 14:57:56,"1,860s",PASSED
+"click(findTestObject(""Object Repository/Page_Market Intelligence Platform/img_Market Intelligence Platform_mip-header_e49a12""))",Chrome 109.0.0.0,,,2023-01-23 14:57:56,2023-01-23 14:57:57,"0,869s",PASSED
+"verifyElementClickable(findTestObject(""Page_Market Intelligence Platform/a_I need to know the Insurance Portfolio""))",Chrome 109.0.0.0,,,2023-01-23 14:57:57,2023-01-23 14:57:58,"0,917s",PASSED
+"click(findTestObject(""Object Repository/Page_Market Intelligence Platform/a_I need to know the Insurance Portfolio""))",Chrome 109.0.0.0,,,2023-01-23 14:57:58,2023-01-23 14:57:58,"0,396s",PASSED
+closeBrowser(),Chrome 109.0.0.0,,,2023-01-23 14:57:58,2023-01-23 14:57:59,"0,780s",PASSED
+,,,,,,,
+Test Cases/Home/17-Verificar respuesta responsive,Chrome 109.0.0.0,,,2023-01-23 14:57:59,2023-01-23 14:58:24,"24,210s",PASSED
+"openBrowser("""")",Chrome 109.0.0.0,,,2023-01-23 14:58:00,2023-01-23 14:58:01,"1,670s",PASSED
+"navigateToUrl(""https://mip.eassets.emeal.nttdata.com/home"")",Chrome 109.0.0.0,,,2023-01-23 14:58:01,2023-01-23 14:58:17,"15,665s",PASSED
+"click(findTestObject(""Object Repository/Page_Market Intelligence Platform/button_Continue""))",Chrome 109.0.0.0,,,2023-01-23 14:58:17,2023-01-23 14:58:18,"0,614s",PASSED
+"click(findTestObject(""Object Repository/Page_Market Intelligence Platform/span_Privacy policy_mat-checkbox-inner-container""))",Chrome 109.0.0.0,,,2023-01-23 14:58:18,2023-01-23 14:58:18,"0,536s",PASSED
+"click(findTestObject(""Object Repository/Page_Market Intelligence Platform/span_Terms of use_mat-checkbox-inner-container""))",Chrome 109.0.0.0,,,2023-01-23 14:58:18,2023-01-23 14:58:19,"0,780s",PASSED
+"click(findTestObject(""Object Repository/Page_Market Intelligence Platform/button_Continue""))",Chrome 109.0.0.0,,,2023-01-23 14:58:19,2023-01-23 14:58:20,"0,838s",PASSED
+"click(findTestObject(""Object Repository/Page_Market Intelligence Platform/mat-icon_close""))",Chrome 109.0.0.0,,,2023-01-23 14:58:20,2023-01-23 14:58:20,"0,524s",PASSED
+"click(findTestObject(""Object Repository/Page_Market Intelligence Platform/button_Continue""))",Chrome 109.0.0.0,,,2023-01-23 14:58:20,2023-01-23 14:58:21,"0,497s",PASSED
+maximizeWindow(),Chrome 109.0.0.0,,,2023-01-23 14:58:21,2023-01-23 14:58:21,"0,173s",PASSED
+deleteAllCookies(),Chrome 109.0.0.0,,,2023-01-23 14:58:21,2023-01-23 14:58:21,"0,162s",PASSED
+"setViewPortSize(360, 800)",Chrome 109.0.0.0,Samsung s20,,2023-01-23 14:58:21,2023-01-23 14:58:21,"0,287s",PASSED
+"setViewPortSize(412, 919)",Chrome 109.0.0.0,"One plus 9 pro
+",,2023-01-23 14:58:21,2023-01-23 14:58:22,"0,147s",PASSED
+"setViewPortSize(360, 780)",Chrome 109.0.0.0,I phone mini,,2023-01-23 14:58:22,2023-01-23 14:58:22,"0,138s",PASSED
+"setViewPortSize(390, 844)",Chrome 109.0.0.0,I phone 12 pro,,2023-01-23 14:58:22,2023-01-23 14:58:22,"0,142s",PASSED
+"setViewPortSize(428, 926)",Chrome 109.0.0.0,"I phone 12 pro max
+",,2023-01-23 14:58:22,2023-01-23 14:58:22,"0,125s",PASSED
+"setViewPortSize(1280, 800)",Chrome 109.0.0.0,Huawey Mate pad Pro,,2023-01-23 14:58:22,2023-01-23 14:58:22,"0,145s",PASSED
+"setViewPortSize(834, 1180)",Chrome 109.0.0.0,"I pad air
+",,2023-01-23 14:58:22,2023-01-23 14:58:22,"0,155s",PASSED
+"setViewPortSize(1024, 1366)",Chrome 109.0.0.0,I pad pro,,2023-01-23 14:58:22,2023-01-23 14:58:22,"0,157s",PASSED
+"setViewPortSize(810, 1080)",Chrome 109.0.0.0,"i pad 10.2 ""
+",,2023-01-23 14:58:22,2023-01-23 14:58:23,"0,127s",PASSED
+"setViewPortSize(768, 1024)",Chrome 109.0.0.0,I pad mini,,2023-01-23 14:58:23,2023-01-23 14:58:23,"0,141s",PASSED
+closeBrowser(),Chrome 109.0.0.0,,,2023-01-23 14:58:23,2023-01-23 14:58:24,"0,756s",PASSED
+,,,,,,,
+Test Cases/Home/18-Verificar direccionamiento del logo MIP,Chrome 109.0.0.0,,,2023-01-23 14:58:24,2023-01-23 14:58:48,"24,810s",PASSED
+"callTestCase(findTestCase(""Casos de prueba transversales/NavegacionInicialDev""), [:], STOP_ON_FAILURE)",Chrome 109.0.0.0,,,2023-01-23 14:58:24,2023-01-23 14:58:47,"22,923s",PASSED
+"click(findTestObject(""Object Repository/Page_Market Intelligence Platform/img_Market Intelligence Platform_mip-header_e49a12""))",Chrome 109.0.0.0,,,2023-01-23 14:58:47,2023-01-23 14:58:47,"0,501s",PASSED
+closeBrowser(),Chrome 109.0.0.0,,,2023-01-23 14:58:47,2023-01-23 14:58:48,"0,866s",PASSED

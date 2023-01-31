@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verificar correcto funcionamiento del buscador &quot;Search Market information&quot;</description>
+   <name>17-Verificar Link Laterales</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3eafd283-b669-4c98-b5ee-8ccd66c6980e</testCaseGuid>
+</TestCaseEntity>

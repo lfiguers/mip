@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_BPO</name>
+   <tag></tag>
+   <elementGuidId>73333be1-8182-45d9-b106-921226c09cc3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Automation'])[1]/following::span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>6c7227eb-5fda-4714-bc6f-e049da9947a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mip-pills__pill__text</value>
+      <webElementGuid>0b382ba9-8006-438d-a5fc-79a5b2309661</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>BPO</value>
+      <webElementGuid>41ff084a-3d56-41c2-b5ff-e2981127db0f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/div[@class=&quot;mip-app&quot;]/div[@class=&quot;mip-app__main-row&quot;]/div[@class=&quot;mip-app__main-row__main-column&quot;]/div[@class=&quot;mip-app__main-row__main-column__content&quot;]/mip-market-landscape-home[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;mip-page-header&quot;]/div[@class=&quot;mip-page-header__section&quot;]/div[@class=&quot;mip-page-header__section--right&quot;]/mip-pills[1]/div[@class=&quot;mip-pills&quot;]/div[@class=&quot;mip-pills__container&quot;]/div[@class=&quot;mip-pills__pill ng-star-inserted mip-pills__pill--selected&quot;]/span[@class=&quot;mip-pills__pill__text&quot;]</value>
+      <webElementGuid>f595deb1-fd2e-4739-8bab-e48df1cdd5c1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Automation'])[1]/following::span[2]</value>
+      <webElementGuid>9bf6f27f-54e4-4514-938b-1bdc81f69b92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Applications Services'])[1]/following::span[4]</value>
+      <webElementGuid>36fb7dfc-fedc-45fc-9fb5-26a152680686</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Business &amp; Technology Consulting'])[1]/preceding::span[2]</value>
+      <webElementGuid>186ca3f3-3965-4620-891b-4f906ba29c2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cloud &amp; IT Infrastructure'])[1]/preceding::span[4]</value>
+      <webElementGuid>ee2fcbb6-7662-4d2b-a30b-77c66c32f6be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='BPO']/parent::*</value>
+      <webElementGuid>8ff29269-84f6-4fdd-8c0a-5b9e8ce5f1ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/mip-pills/div/div/div[3]/span[2]</value>
+      <webElementGuid>7687e1c4-f70a-4065-8653-3ad7e819106c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'BPO' or . = 'BPO')]</value>
+      <webElementGuid>e871e41a-d220-4b3b-86ec-a1de365500b0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

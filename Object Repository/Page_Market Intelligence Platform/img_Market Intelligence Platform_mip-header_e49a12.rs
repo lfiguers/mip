@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Market Intelligence Platform_mip-header_e49a12</name>
+   <tag></tag>
+   <elementGuidId>23929fc7-862b-485d-a612-fbe738665ff6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img.mip-header__logo__image</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>c628634e-fbfe-452f-90fa-f98d3af20403</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/assets/images/mip-logo.png</value>
+      <webElementGuid>10c98b79-3823-4d1b-84eb-8f4bf6d766e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mip-header__logo__image</value>
+      <webElementGuid>4563498c-9d2a-49af-a43f-6b98b66d37c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/div[@class=&quot;mip-app&quot;]/mip-header[1]/div[@class=&quot;mip-header&quot;]/a[@class=&quot;mip-header__logo&quot;]/img[@class=&quot;mip-header__logo__image&quot;]</value>
+      <webElementGuid>eea2fe81-c2f1-4a46-812f-b0596cedb222</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//img</value>
+      <webElementGuid>bc9d499b-6bdc-4651-b473-9805ac91ea24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/assets/images/mip-logo.png']</value>
+      <webElementGuid>dcd4fc13-cb04-42ad-a465-c4efc88c868b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

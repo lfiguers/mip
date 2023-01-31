@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verificar la funcion de busqueda de la caja input &quot;search competitor&quot;</description>
+   <name>EjemploValidacion</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e2b29e8a-aac8-4262-a7df-c3cf91e0e5b9</testCaseGuid>
+</TestCaseEntity>

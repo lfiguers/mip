@@ -1,0 +1,25 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TestSuite1,Firefox 109.0,,,2023-01-23 15:03:57,2023-01-23 15:07:34,"3m - 37,194s",FAILED
+,,,,,,,
+Test Cases/CompaniesCompetitors/EjemploValidacion,Firefox 109.0,"Verificar la funcion de busqueda de la caja input ""search competitor""",,2023-01-23 15:03:58,2023-01-23 15:04:43,"45,726s",FAILED
+"openBrowser("""")",Firefox 109.0,,,2023-01-23 15:03:58,2023-01-23 15:04:05,"6,597s",PASSED
+"navigateToUrl(""https://mip.eassets.emeal.nttdata.com"")",Firefox 109.0,,,2023-01-23 15:04:05,2023-01-23 15:04:11,"6,320s",PASSED
+"click(findTestObject(""Object Repository/Page_Market Intelligence Platform/button_Continue""))",Firefox 109.0,,,2023-01-23 15:04:11,2023-01-23 15:04:43,"32,249s",FAILED
+,,,,,,,
+Test Cases/Home/15-Verificar correcto funcionamiento del buscador Search Market information,Firefox 109.0,,,2023-01-23 15:04:43,2023-01-23 15:05:25,"42,026s",FAILED
+"openBrowser("""")",Firefox 109.0,,,2023-01-23 15:04:44,2023-01-23 15:04:49,"5,030s",PASSED
+"navigateToUrl(""https://mip.eassets.emeal.nttdata.com/home"")",Firefox 109.0,,,2023-01-23 15:04:49,2023-01-23 15:04:54,"5,342s",PASSED
+"click(findTestObject(""Object Repository/Page_Market Intelligence Platform/button_Continue""))",Firefox 109.0,,,2023-01-23 15:04:54,2023-01-23 15:05:25,"31,229s",FAILED
+,,,,,,,
+Test Cases/Home/16-Verificar Link Laterales,Firefox 109.0,"Verificar correcto funcionamiento del buscador ""Search Market information""",,2023-01-23 15:05:25,2023-01-23 15:06:09,"43,310s",FAILED
+"openBrowser("""")",Firefox 109.0,,,2023-01-23 15:05:26,2023-01-23 15:05:32,"5,634s",PASSED
+"navigateToUrl(""https://mip.eassets.emeal.nttdata.com/home"")",Firefox 109.0,,,2023-01-23 15:05:32,2023-01-23 15:05:37,"5,002s",PASSED
+"click(findTestObject(""Object Repository/Page_Market Intelligence Platform/button_Continue""))",Firefox 109.0,,,2023-01-23 15:05:37,2023-01-23 15:06:09,"32,248s",FAILED
+,,,,,,,
+Test Cases/Home/17-Verificar respuesta responsive,Firefox 109.0,,,2023-01-23 15:06:09,2023-01-23 15:06:52,"42,773s",FAILED
+"openBrowser("""")",Firefox 109.0,,,2023-01-23 15:06:09,2023-01-23 15:06:15,"6,021s",PASSED
+"navigateToUrl(""https://mip.eassets.emeal.nttdata.com/home"")",Firefox 109.0,,,2023-01-23 15:06:15,2023-01-23 15:06:20,"5,084s",PASSED
+"click(findTestObject(""Object Repository/Page_Market Intelligence Platform/button_Continue""))",Firefox 109.0,,,2023-01-23 15:06:20,2023-01-23 15:06:52,"31,195s",FAILED
+,,,,,,,
+Test Cases/Home/18-Verificar direccionamiento del logo MIP,Firefox 109.0,,,2023-01-23 15:06:52,2023-01-23 15:07:34,"42,889s",FAILED
+"callTestCase(findTestCase(""Casos de prueba transversales/NavegacionInicialDev""), [:], STOP_ON_FAILURE)",Firefox 109.0,,,2023-01-23 15:06:52,2023-01-23 15:07:34,"42,474s",FAILED

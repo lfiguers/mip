@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Accenture to acquire SKS Group</name>
+   <tag></tag>
+   <elementGuidId>0497a7ed-73de-4646-90dd-d8f78063370b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main/div/div/div/article/div/div/h2</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h2.title-section</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>dafe71d3-4089-47c2-b6ca-df7ce1a07a83</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>title-section</value>
+      <webElementGuid>ac27d74d-51fe-4367-92bd-537f472611cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Accenture to acquire SKS Group</value>
+      <webElementGuid>8654507c-1e6a-4671-aa55-698559f5e032</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[@class=&quot;App&quot;]/div[@class=&quot;content&quot;]/div[1]/div[@class=&quot;container lefted&quot;]/article[@class=&quot;grid article-detail&quot;]/div[@class=&quot;grid-column grid-column-size-2 center-column&quot;]/div[1]/h2[@class=&quot;title-section&quot;]</value>
+      <webElementGuid>740e5309-2830-421b-8620-19b54042244d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/div/div/div/article/div/div/h2</value>
+      <webElementGuid>7eb3184b-250c-4579-b4ee-b84de5921878</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search tip'])[1]/following::h2[1]</value>
+      <webElementGuid>055b5c99-1bc4-4929-8104-15727f3d2855</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search in archive'])[1]/following::h2[1]</value>
+      <webElementGuid>ae274ce3-e8de-4824-b553-34e051a07c58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Read in original source'])[1]/preceding::h2[1]</value>
+      <webElementGuid>61991769-95ab-4b17-a79d-f47ebcfc723e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='F'])[1]/preceding::h2[1]</value>
+      <webElementGuid>998b06be-69ba-4d39-84f2-d9171723b034</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2</value>
+      <webElementGuid>d2fc560c-49e9-4047-8654-8e73c5288e5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'Accenture to acquire SKS Group' or . = 'Accenture to acquire SKS Group')]</value>
+      <webElementGuid>a872131d-2556-4c85-8d76-5216fa65f366</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

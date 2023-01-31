@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>mat-icon_search</name>
+   <tag></tag>
+   <elementGuidId>77948100-bb61-49e1-95c4-535b03362ff6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.mip-searcher__content__icon > mat-icon.mat-icon.notranslate.material-icons.mat-ligature-font.mat-icon-no-color</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Market Landscape • Companies • Analysts • Innovation Trends • Corporate Research'])[1]/following::mat-icon[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>mat-icon</value>
+      <webElementGuid>4eeb3734-0a10-4a50-8644-d2d10f4fb3b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>517fcb3f-37bc-4d03-9cb3-8873443906b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-icon notranslate material-icons mat-ligature-font mat-icon-no-color</value>
+      <webElementGuid>1d688a82-49de-42af-aa07-cfd0fcd61e3d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>37dc3568-138e-4070-8903-1bcb2923a34c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-mat-icon-type</name>
+      <type>Main</type>
+      <value>font</value>
+      <webElementGuid>60531f4f-cf8a-4a1e-aff5-020d995b0711</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>search</value>
+      <webElementGuid>39a8b56e-bfe6-4243-b1c0-847e1d53a148</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/div[@class=&quot;mip-app&quot;]/div[@class=&quot;mip-app__main-row&quot;]/div[@class=&quot;mip-app__main-row__main-column&quot;]/div[@class=&quot;mip-app__main-row__main-column__content mip-app__main-row__main-column__content--home&quot;]/mip-home[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;mip-home-landing&quot;]/section[@class=&quot;mip-home__main-section&quot;]/div[@class=&quot;mip-home__main-section--content&quot;]/div[@class=&quot;flex-layout&quot;]/div[@class=&quot;second-column&quot;]/div[@class=&quot;section-border-box&quot;]/div[@class=&quot;mip-home__main-section--searcher&quot;]/mip-searcher[1]/div[@class=&quot;mip-searcher__box mip-searcher__box__focus&quot;]/div[@class=&quot;mip-searcher mip-searcher--focus&quot;]/mip-searcher-basic[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;mip-searcher__content&quot;]/div[@class=&quot;mip-searcher__content__icon&quot;]/mat-icon[@class=&quot;mat-icon notranslate material-icons mat-ligature-font mat-icon-no-color&quot;]</value>
+      <webElementGuid>e5bdfc44-869b-4c02-a9f5-209904caa7d1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Market Landscape • Companies • Analysts • Innovation Trends • Corporate Research'])[1]/following::mat-icon[1]</value>
+      <webElementGuid>6b282811-82f7-4bda-8981-f22e97eceb92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Market Information'])[2]/following::mat-icon[1]</value>
+      <webElementGuid>bcb0dbb6-8738-4064-a1c2-c27826a4c949</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Value Proposition'])[2]/preceding::mat-icon[2]</value>
+      <webElementGuid>aadd5f11-78d2-4819-bf3e-4cc600c9ca85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Offering &amp; Capabilities • Knowledge Management Office'])[1]/preceding::mat-icon[2]</value>
+      <webElementGuid>e0059ffd-87c2-4567-acea-ff666e9612ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mip-searcher-basic/div/div/mat-icon</value>
+      <webElementGuid>bffb3d88-eeeb-42a7-abde-e7850aadf623</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//mat-icon[(text() = 'search' or . = 'search')]</value>
+      <webElementGuid>eda46628-191f-4b0f-b3d0-daec6ec9f4cb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
