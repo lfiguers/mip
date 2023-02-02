@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>&quot;En MIP, en el menú &quot;&quot;Companies&quot;&quot;>&quot;&quot;Competitors&quot;&quot;, selección de una compañía, widget &quot;&quot;Press Releases at a glance&quot;&quot;. Se debe verificar el listado de 5 notas de prensa relacionadas con la compañía provenientes de la fuente UP2DATE.
+
+En UP2DATE, se encuentra la nota de prensa de la compañía junto con los &quot;&quot;Topics&quot;&quot; y &quot;&quot;Categories&quot;&quot;, en donde debe aparecer el nombre de la compañía.&quot;</description>
+   <name>7691-Comprobar que las noticias corresponden a esa compañía</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>15172405-0c9c-4542-bc23-fcf068b27a32</testCaseGuid>
+</TestCaseEntity>
