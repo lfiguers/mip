@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_ACN Accenture plc</name>
+   <tag></tag>
+   <elementGuidId>bffc590a-3b12-46f3-8482-5a63d4330fed</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.search-result-item</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='search-box-result']/div[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>b3a45610-9b22-4e3c-91f3-e26d0ef56a89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/financial-summary/ACN</value>
+      <webElementGuid>fff3291d-fb22-4bef-9108-e34302fd7683</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>da3a0513-d287-440e-8c50-247d75805c90</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>search-result-item</value>
+      <webElementGuid>f7a8c74d-a31e-464f-9a5d-1d92cfb885cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ACN Accenture plc
+                    </value>
+      <webElementGuid>f903e6f5-2c66-4c4b-b2fc-9bf3bed64c1f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;search-box-result&quot;)/div[2]/a[@class=&quot;search-result-item&quot;]</value>
+      <webElementGuid>f4fae4f4-5639-4564-a104-9e73d77c045f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='search-box-result']/div[2]/a</value>
+      <webElementGuid>6fcb3ee0-68ca-41f8-ad23-5a152e0d2214</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Stocks'])[1]/following::a[1]</value>
+      <webElementGuid>fa75a7d7-f313-4e1a-81f7-816df6cd3570</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Financial Modeling Prep'])[2]/following::a[1]</value>
+      <webElementGuid>fa71f803-d104-4055-ad9a-e99186aec3c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Accenture plc']/parent::*</value>
+      <webElementGuid>0b0db95c-3027-44a0-a1a0-43d64151b701</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/financial-summary/ACN')]</value>
+      <webElementGuid>2efcdb1d-df5b-4ee5-8174-ebc8fc7924ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a</value>
+      <webElementGuid>7b994f0a-4bf3-412c-82c7-fcf6f85c498f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/financial-summary/ACN' and (text() = 'ACN Accenture plc
+                    ' or . = 'ACN Accenture plc
+                    ')]</value>
+      <webElementGuid>a99dcc65-d0d3-4ed6-8bbb-64bc71752bf9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>mat-icon_expand_more</name>
+   <tag></tag>
+   <elementGuidId>68698465-ef43-499f-a94d-64d01035933f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Companies'])[1]/following::mat-icon[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>mat-icon</value>
+      <webElementGuid>63816973-15ea-4803-b8cb-c4498164e4a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>57940f1b-35ff-4c01-94b7-5b2ec15ca551</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-icon notranslate ng-tns-c70-0 mip-menu__section__item__menu-item__expand-icon material-icons mat-ligature-font mat-icon-no-color ng-star-inserted</value>
+      <webElementGuid>5c1e2b43-2864-4af9-91a8-b7751cc465fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>60c3f906-4cad-4bc7-8bc2-34f40bdb562d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-mat-icon-type</name>
+      <type>Main</type>
+      <value>font</value>
+      <webElementGuid>21fc0e5a-b767-4d23-b52a-1a0e526ed761</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>expand_more</value>
+      <webElementGuid>9b104c89-dcbc-4a63-b90c-c69a96decb0b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/div[@class=&quot;mip-app&quot;]/div[@class=&quot;mip-app__main-row&quot;]/mip-menu[@class=&quot;ng-tns-c70-0&quot;]/div[@class=&quot;ng-tns-c70-0 mip-menu&quot;]/div[@class=&quot;ng-tns-c70-0&quot;]/div[@class=&quot;mip-menu__section ng-tns-c70-0 ng-star-inserted&quot;]/div[@class=&quot;mip-menu__section__item ng-tns-c70-0 ng-star-inserted&quot;]/a[@class=&quot;ng-tns-c70-0 mip-menu__section__item__menu-item&quot;]/mat-icon[@class=&quot;mat-icon notranslate ng-tns-c70-0 mip-menu__section__item__menu-item__expand-icon material-icons mat-ligature-font mat-icon-no-color ng-star-inserted&quot;]</value>
+      <webElementGuid>faac5f21-190c-4dec-9576-9c1da0d24ad8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Companies'])[1]/following::mat-icon[1]</value>
+      <webElementGuid>c194bc24-b8df-4cfe-b6a1-24e93c914566</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Market Landscape'])[1]/following::mat-icon[3]</value>
+      <webElementGuid>c55cdf8b-43a1-4651-aa1a-65dc76fbe8ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Analysts'])[1]/preceding::mat-icon[2]</value>
+      <webElementGuid>2d90141a-1578-476a-9a01-88c73d6a3168</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Innovation Trends'])[1]/preceding::mat-icon[4]</value>
+      <webElementGuid>970472cd-906a-4419-83e3-f2af2b91adb8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/a/mat-icon[2]</value>
+      <webElementGuid>86a723ad-b99e-41ce-b041-f4b427b9c0ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//mat-icon[(text() = 'expand_more' or . = 'expand_more')]</value>
+      <webElementGuid>4759c93d-8ff9-4cea-bfb0-13aaba8be712</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

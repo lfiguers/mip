@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>mat-icon</value>
-      <webElementGuid>b5cc8128-fcba-4829-bcd1-26b478ada272</webElementGuid>
+      <webElementGuid>8aead121-aa9a-49c2-b5c5-b5056462dc51</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>role</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>1e439cf2-35e1-4916-9d76-92c580d1fd42</webElementGuid>
+      <webElementGuid>4994e7c3-341f-4c35-a25e-f8ebab4e6d7b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>mat-icon notranslate mip-menu__collapse-item__button__icon ng-tns-c70-0 material-icons mat-ligature-font mat-icon-no-color</value>
-      <webElementGuid>ea62f6fe-a3d7-488e-bcaa-8c10b058c1c7</webElementGuid>
+      <webElementGuid>f8c937a2-b616-4d7a-b077-f7ed836ea77f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>aria-hidden</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>f1142eb1-6835-4c9a-80fa-d0eacf88d091</webElementGuid>
+      <webElementGuid>9e0e56fc-6bb8-4f64-a536-7f8fd6fdfb20</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>data-mat-icon-type</name>
       <type>Main</type>
       <value>font</value>
-      <webElementGuid>1ee31bc7-7e44-4278-afaf-2b53df3e46bb</webElementGuid>
+      <webElementGuid>c0ff4c3f-6b5c-4110-be38-68b266599ec7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>text</name>
       <type>Main</type>
       <value>navigate_before</value>
-      <webElementGuid>9708f159-2357-4058-b848-2ca52d3e322a</webElementGuid>
+      <webElementGuid>11d3a97a-f60f-45b6-a995-24ee9db26800</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/app-root[1]/div[@class=&quot;mip-app&quot;]/div[@class=&quot;mip-app__main-row&quot;]/mip-menu[@class=&quot;ng-tns-c70-0&quot;]/div[@class=&quot;ng-tns-c70-0 mip-menu mip-menu--collapse&quot;]/div[@class=&quot;ng-tns-c70-0&quot;]/div[@class=&quot;mip-menu__collapse-item ng-tns-c70-0&quot;]/div[@class=&quot;mip-menu__collapse-item__button ng-tns-c70-0&quot;]/mat-icon[@class=&quot;mat-icon notranslate mip-menu__collapse-item__button__icon ng-tns-c70-0 material-icons mat-ligature-font mat-icon-no-color&quot;]</value>
-      <webElementGuid>09c10c4f-b116-4a71-9077-8f8539387064</webElementGuid>
+      <webElementGuid>482502c9-4ffe-44b4-8091-17ec6c01a1f1</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Log out'])[1]/following::mat-icon[2]</value>
-      <webElementGuid>27943061-98ae-4731-8f5a-7cbf22574014</webElementGuid>
+      <webElementGuid>05f8ed2c-511a-483f-a9c6-25d0541ccffc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='by NTT DATA'])[1]/following::mat-icon[3]</value>
-      <webElementGuid>f4a431a1-fbef-40c2-a1e7-2828cfaa62f7</webElementGuid>
+      <webElementGuid>1b982717-e510-48ac-a821-2c3fc503617a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/preceding::mat-icon[3]</value>
-      <webElementGuid>c94e35e8-eccb-4f4f-a4c5-47b257e7eec5</webElementGuid>
+      <webElementGuid>b7b7baf5-d28f-4652-93ac-7bfd20371b43</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Market Information'])[1]/preceding::mat-icon[3]</value>
-      <webElementGuid>c3e1da47-4363-4580-8334-22dc53ccb6ce</webElementGuid>
+      <webElementGuid>eea1dfe6-2bf5-43a4-b3b2-8f86d9580ccd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='navigate_before']/parent::*</value>
-      <webElementGuid>6e7b5df0-b0c1-4d8a-ba3c-0a451164a628</webElementGuid>
+      <webElementGuid>989e680f-9adc-4a7a-9299-c7c2724764e4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/mat-icon</value>
-      <webElementGuid>c86cac31-558c-4581-918f-44734652f712</webElementGuid>
+      <webElementGuid>c9f31990-98b8-40c5-bbc4-46873d6599c0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,6 +126,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//mat-icon[(text() = 'navigate_before' or . = 'navigate_before')]</value>
-      <webElementGuid>d9956f4e-ea97-49e7-a145-b95a5b6303e1</webElementGuid>
+      <webElementGuid>849b4a03-bfc2-4dab-be99-6246fbf950d2</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

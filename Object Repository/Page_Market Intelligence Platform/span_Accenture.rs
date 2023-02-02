@@ -6,12 +6,12 @@
    <elementGuidId>0e483935-ab20-4cd8-b7dd-f154cb068e7b</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Revenue (last updated)'])[1]/following::span[1]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>span.mip-competitors-landing__table-section__name-column__name__label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Revenue (last updated)'])[1]/following::span[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>8e390439-0cf1-4f11-87f5-9a88c2e7d017</webElementGuid>
+      <webElementGuid>2d7d92e1-eb24-4df0-bbd2-8dae32dc7cd7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>mip-competitors-landing__table-section__name-column__name__label</value>
-      <webElementGuid>3a78d2bc-b086-4c52-b189-399f9a5d7082</webElementGuid>
+      <webElementGuid>ef44f620-39f5-4055-b4c7-7a5fb608703a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,15 +38,15 @@
       <name>text</name>
       <type>Main</type>
       <value>Accenture</value>
-      <webElementGuid>9f1c25e2-ce1f-45e3-93ca-e9445fc3bdac</webElementGuid>
+      <webElementGuid>8508f0ac-4535-421c-91b3-67a22e20c3ed</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[1]/app-root[1]/div[@class=&quot;mip-app&quot;]/div[@class=&quot;mip-app__main-row&quot;]/div[@class=&quot;mip-app__main-row__main-column&quot;]/div[@class=&quot;mip-app__main-row__main-column__content&quot;]/mip-companies[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;mip-dashboard mip-competitors-landing&quot;]/div[@class=&quot;mip-dashboard__row--biggest&quot;]/mip-section[@class=&quot;mip-section--big landing mip-competitors-landing__table-section&quot;]/div[@class=&quot;mip-section mip-section--big&quot;]/div[@class=&quot;mip-table ng-star-inserted&quot;]/div[@class=&quot;tableContainer&quot;]/mip-table[@class=&quot;ng-tns-c125-1 ng-star-inserted&quot;]/table[@class=&quot;mat-table cdk-table mat-sort ng-tns-c125-1 mip-table&quot;]/tbody[1]/tr[@class=&quot;mat-row cdk-row ng-tns-c125-1 ng-star-inserted expanded-row&quot;]/td[@class=&quot;mat-cell cdk-cell cdk-column-organizationName mat-column-organizationName ng-tns-c125-1 ng-star-inserted&quot;]/div[@class=&quot;mip-competitors-landing__table-section__name-column ng-star-inserted&quot;]/a[@class=&quot;mip-competitors-landing__table-section__name-column__name&quot;]/span[@class=&quot;mip-competitors-landing__table-section__name-column__name__label&quot;]</value>
-      <webElementGuid>40d9ceef-6c53-4f06-909e-590da96d48c9</webElementGuid>
+      <value>/html[1]/body[1]/app-root[1]/div[@class=&quot;mip-app&quot;]/div[@class=&quot;mip-app__main-row&quot;]/div[@class=&quot;mip-app__main-row__main-column&quot;]/div[@class=&quot;mip-app__main-row__main-column__content&quot;]/mip-companies[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;mip-dashboard mip-competitors-landing&quot;]/div[@class=&quot;mip-dashboard__row--biggest&quot;]/mip-section[@class=&quot;mip-section--big landing mip-competitors-landing__table-section&quot;]/div[@class=&quot;mip-section mip-section--big&quot;]/div[@class=&quot;mip-table ng-star-inserted&quot;]/div[@class=&quot;tableContainer&quot;]/mip-table[@class=&quot;ng-tns-c125-1 ng-star-inserted&quot;]/table[@class=&quot;mat-table cdk-table mat-sort ng-tns-c125-1 mip-table&quot;]/tbody[1]/tr[@class=&quot;mat-row cdk-row ng-tns-c125-1 ng-star-inserted&quot;]/td[@class=&quot;mat-cell cdk-cell cdk-column-organizationName mat-column-organizationName ng-tns-c125-1 ng-star-inserted&quot;]/div[@class=&quot;mip-competitors-landing__table-section__name-column ng-star-inserted&quot;]/a[@class=&quot;mip-competitors-landing__table-section__name-column__name&quot;]/span[@class=&quot;mip-competitors-landing__table-section__name-column__name__label&quot;]</value>
+      <webElementGuid>aed40152-1ae2-4b37-abf4-34b0f3a7ee48</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Revenue (last updated)'])[1]/following::span[1]</value>
-      <webElementGuid>205181b4-62b9-4d82-b490-ec8bee2796e5</webElementGuid>
+      <webElementGuid>7caf6d34-5b3e-47fc-b8e3-c43546158277</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Aggregated sub companies'])[1]/following::span[1]</value>
-      <webElementGuid>3b72cd37-aec9-4e56-a82f-ba1cea42a428</webElementGuid>
+      <webElementGuid>627352b0-3a61-4bdc-9de6-47ec260a67f6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Adesso'])[1]/preceding::span[1]</value>
-      <webElementGuid>1535f96f-59ee-459e-a4c6-be897704d74a</webElementGuid>
+      <webElementGuid>48d3ec2e-4776-4eda-aedb-8d09b5df2a1f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='AlmavivA'])[1]/preceding::span[2]</value>
-      <webElementGuid>6d0e4881-7803-47c7-89fb-84c230e7569f</webElementGuid>
+      <webElementGuid>89b2dc18-9de5-4194-9fc2-6298d8f0269d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Accenture']/parent::*</value>
-      <webElementGuid>93ce583c-323b-4ba9-9baa-99a7edb14cba</webElementGuid>
+      <webElementGuid>a0cd6069-e848-413d-9e8a-3fb465534a5e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//a/span</value>
-      <webElementGuid>b49ee4ba-bde7-43a9-a6b1-743094daf486</webElementGuid>
+      <webElementGuid>5ee0cf65-350c-4fc0-8c3e-01bd5c51a7de</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Accenture' or . = 'Accenture')]</value>
-      <webElementGuid>2b81b847-a8a7-468f-82a2-ee9b8c06c4c1</webElementGuid>
+      <webElementGuid>c7207e7e-081d-436a-8654-451b3a703466</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

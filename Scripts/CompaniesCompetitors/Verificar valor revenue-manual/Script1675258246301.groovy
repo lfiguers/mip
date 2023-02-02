@@ -35,35 +35,32 @@ WebUI.click(findTestObject('Object Repository/Page_Market Intelligence Platform/
 
 WebUI.click(findTestObject('Object Repository/Page_Market Intelligence Platform/mat-icon_navigate_before'))
 
-WebUI.click(findTestObject('Object Repository/Page_Market Intelligence Platform/a_apartmentCompaniesexpand_more'))
+WebUI.click(findTestObject('Object Repository/Page_Market Intelligence Platform/mat-icon_expand_more'))
 
 WebUI.click(findTestObject('Object Repository/Page_Market Intelligence Platform/label_Competitors'))
-
-WebUI.click(findTestObject('Object Repository/Page_Market Intelligence Platform/td_61.594.305.000'))
 
 WebUI.click(findTestObject('Object Repository/Page_Market Intelligence Platform/span_Accenture'))
 
 WebUI.click(findTestObject('Object Repository/Page_Market Intelligence Platform/td_61.594.305.000'))
 
-WebUI.click(findTestObject('Object Repository/Page_Market Intelligence Platform/a_Accenture to acquire SKS Group'))
+string value1 = WebUI.click(findTestObject('Object Repository/Page_Market Intelligence Platform/td_61.594.305.000'))
 
-'link de la noticia\r\n'
-WebUI.delay(15)
 
-'verificar que el titulo este visible\r\n'
-WebUI.verifyTextPresent('Accenture to acquire SKS Group', false)
+WebUI.navigateToUrl('https://site.financialmodelingprep.com/financial-statements/FJTSY')
 
-'Se cambia de ventana a a de UptoDate\r\n'
-WebUI.switchToWindowTitle('Accenture to acquire SKS Group')
+WebUI.setText(findTestObject('Object Repository/Page_FJTSY Financial Statements - Financial_cb6e93/input_Financial Modeling Prep_search-box'), 
+    'accenture')
 
-WebUI.verifyElementText(findTestObject('ObjetosManuales/Page_Accenture to acquire SKS Group/h2_Accenture to acquire SKS Group_Uptodate'), 
-    'Accenture to acquire SKS Group')
+WebUI.click(findTestObject('Object Repository/Page_FJTSY Financial Statements - Financial_cb6e93/a_ACN Accenture plc'))
 
-WebUI.click(findTestObject('Object Repository/Page_Accenture to acquire SKS Group/h2_Accenture to acquire SKS Group'))
+WebUI.click(findTestObject('Object Repository/Page_ACN 279.05 4.73 1.72 Accenture plc - F_93e3b9/a_Financial Statements'))
 
-WebUI.click(findTestObject('Object Repository/Page_Accenture to acquire SKS Group/div_Accenture to acquire SKS Group143 min r_70339d'))
+WebUI.click(findTestObject('Object Repository/Page_ACN Financial Statements - FinancialMo_e40790/span_61,594,305'))
 
-WebUI.click(findTestObject('Object Repository/Page_Accenture to acquire SKS Group/h2_Accenture to acquire SKS Group'))
 
-WebUI.closeBrowser()
+string value2= WebUI.click(findTestObject('Object Repository/Page_ACN Financial Statements - FinancialMo_e40790/span_61,594,305'))
+
+WebUI.verifyEqual(value1, value2)
+
+WebUI.verifyMatch('61,594,305', '61,594,305', false)
 

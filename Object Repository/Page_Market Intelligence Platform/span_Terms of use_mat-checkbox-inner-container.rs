@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>a23c8825-929f-412d-b2df-d89bf56d51c0</webElementGuid>
+      <webElementGuid>73a31954-705a-45ad-8bba-dd7f4ce2d5c5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>mat-checkbox-inner-container</value>
-      <webElementGuid>d0e2c000-6d08-4b6e-94d7-cd6b94453c08</webElementGuid>
+      <webElementGuid>1ae90a9b-be98-4ba1-8658-fc92316f37a2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;privacy&quot;)/label[@class=&quot;mat-checkbox-layout&quot;]/span[@class=&quot;mat-checkbox-inner-container&quot;]</value>
-      <webElementGuid>1c7a649e-1358-44f1-8967-e0a5e558c473</webElementGuid>
+      <webElementGuid>2f99f1bf-0ae0-424f-a0d3-eabd8d9841bc</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//mat-checkbox[@id='privacy']/label/span</value>
-      <webElementGuid>366c1336-90cf-4cec-b7b9-5c9456a50d76</webElementGuid>
+      <webElementGuid>a6f4bd18-3f99-46de-9230-1eea7121b663</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Terms of use.'])[1]/following::span[1]</value>
-      <webElementGuid>b00850a6-d759-4458-87ec-daf661269647</webElementGuid>
+      <webElementGuid>ee516ae8-9530-4751-a5c6-084691e940b3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Privacy policy.'])[1]/preceding::span[7]</value>
-      <webElementGuid>495a6f61-13b6-409a-ba5d-fce832424418</webElementGuid>
+      <webElementGuid>97ec3e70-ae8e-4f24-a3f6-4faa0e4d14dd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,6 +70,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//mat-checkbox[2]/label/span</value>
-      <webElementGuid>58bb21bb-82b6-4c30-b1f8-85a95b17b23f</webElementGuid>
+      <webElementGuid>8bca9904-d423-4142-81a7-e676bb246b8c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

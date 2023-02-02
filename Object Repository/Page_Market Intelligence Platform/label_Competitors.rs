@@ -6,12 +6,12 @@
    <elementGuidId>80d7b205-08a0-4b3e-b1fb-b15c9f5cda4a</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Companies'])[1]/following::label[1]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>a.ng-tns-c70-0.mip-menu__section__item__subitems__menu-subitem.ng-star-inserted > label.ng-tns-c70-0</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Companies'])[1]/following::label[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>label</value>
-      <webElementGuid>67549466-a645-4819-b856-398482009416</webElementGuid>
+      <webElementGuid>de96202a-8288-4f56-a1b1-2d6599f678f9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ng-tns-c70-0</value>
-      <webElementGuid>dd7ad9e8-24b7-48eb-afc5-41ce453e58e6</webElementGuid>
+      <webElementGuid>349437cc-1722-4fcc-95dd-ae0c28561857</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Competitors</value>
-      <webElementGuid>437f4384-bd66-4cb3-8c1d-84a6377313ad</webElementGuid>
+      <webElementGuid>a37692fd-448a-4bff-a8dd-d6ef918f7b7e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/app-root[1]/div[@class=&quot;mip-app&quot;]/div[@class=&quot;mip-app__main-row&quot;]/mip-menu[@class=&quot;ng-tns-c70-0&quot;]/div[@class=&quot;ng-tns-c70-0 mip-menu&quot;]/div[@class=&quot;ng-tns-c70-0&quot;]/div[@class=&quot;mip-menu__section ng-tns-c70-0 ng-star-inserted&quot;]/div[@class=&quot;mip-menu__section__item ng-tns-c70-0 ng-star-inserted&quot;]/div[@class=&quot;mip-menu__section__item__subitems ng-tns-c70-0 ng-trigger ng-trigger-collapse ng-star-inserted&quot;]/a[@class=&quot;ng-tns-c70-0 mip-menu__section__item__subitems__menu-subitem ng-star-inserted&quot;]/label[@class=&quot;ng-tns-c70-0&quot;]</value>
-      <webElementGuid>9ad0902d-e8ad-4717-90f9-644d48c2b1cf</webElementGuid>
+      <webElementGuid>02dbfce5-8a2f-47bd-9f03-f3e4a01a8cbb</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Companies'])[1]/following::label[1]</value>
-      <webElementGuid>aaa45461-c226-4ea6-a0c3-675e3d0fffc4</webElementGuid>
+      <webElementGuid>59203395-5b7b-4fc2-ae71-2f8a73460201</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Market Landscape'])[1]/following::label[2]</value>
-      <webElementGuid>b6e28d20-957d-4aec-b48e-637613186b57</webElementGuid>
+      <webElementGuid>6fa51cac-66de-4ed1-a233-10ed55ac8286</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Clients'])[1]/preceding::label[1]</value>
-      <webElementGuid>969ccca5-6f4d-4da3-9190-a49d09d22b8b</webElementGuid>
+      <webElementGuid>9dea9bd8-400b-4206-9a34-1f036602eebb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Alliances'])[1]/preceding::label[2]</value>
-      <webElementGuid>793f81a1-458f-4111-aca0-5865068dc429</webElementGuid>
+      <webElementGuid>971ae91f-3cdd-4cf1-94d3-f5a6f03e77fd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Competitors']/parent::*</value>
-      <webElementGuid>887135fb-c489-409e-baee-dd7d7d80ca75</webElementGuid>
+      <webElementGuid>4d58374c-beb0-4a8f-9206-42bada44f1f9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div[3]/div/a/label</value>
-      <webElementGuid>51a6cf58-0f6a-4721-8d22-830dee6d3f56</webElementGuid>
+      <webElementGuid>4f721c2a-18ad-4487-8ca7-ff49dbb2fb19</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//label[(text() = 'Competitors' or . = 'Competitors')]</value>
-      <webElementGuid>55410200-79f4-4fda-8611-c4e5919859ef</webElementGuid>
+      <webElementGuid>1ffa92dc-128d-49b4-be06-2257a670a1f5</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

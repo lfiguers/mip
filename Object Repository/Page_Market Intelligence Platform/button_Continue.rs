@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>a6455c44-64bd-477a-8200-9b30a81606b0</webElementGuid>
+      <webElementGuid>47418e2b-db71-4273-b687-813ae0280871</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>mip-button mip-button--primary mip-button--big</value>
-      <webElementGuid>79d6ca68-94d9-439f-81fe-04ac43b48ed3</webElementGuid>
+      <webElementGuid>8f30826b-7604-4db7-b3b1-52ba1cdf2494</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Continue</value>
-      <webElementGuid>91146a4b-a459-4d7e-9382-d7fe55f24041</webElementGuid>
+      <webElementGuid>1eb9a36a-3320-4fea-9a1a-c4119de84a31</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/app-root[1]/div[@class=&quot;mip-app&quot;]/div[@class=&quot;mip-app__main-row&quot;]/div[@class=&quot;mip-app__main-row__main-column&quot;]/div[@class=&quot;mip-app__main-row__main-column__content mip-app__main-row__main-column__content--home&quot;]/mip-conditions[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;mip-conditions ng-star-inserted&quot;]/div[@class=&quot;mip-conditions__box&quot;]/div[@class=&quot;mip-conditions__buttons ng-star-inserted&quot;]/mip-button[@class=&quot;ng-star-inserted&quot;]/button[@class=&quot;mip-button mip-button--primary mip-button--big&quot;]</value>
-      <webElementGuid>6679a755-13b7-4524-930b-2acc5e75fcb0</webElementGuid>
+      <webElementGuid>6af68ebc-b1dd-4329-a87f-7b17a85576dc</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Privacy policy'])[1]/following::button[1]</value>
-      <webElementGuid>6dc9d902-de99-4358-b8ae-8cd929b743e9</webElementGuid>
+      <webElementGuid>6762b9eb-9636-4466-a8ee-dde62cb5874e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='.'])[1]/following::button[1]</value>
-      <webElementGuid>f0d535b5-f47e-4e91-a63e-f8857294415d</webElementGuid>
+      <webElementGuid>093768b4-c784-4533-8ca2-42da9fedd295</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Find the market information you need and our value proposition in one place'])[1]/preceding::button[1]</value>
-      <webElementGuid>e7ccd045-27c1-4a11-a67a-ca8e9a541ec0</webElementGuid>
+      <webElementGuid>5f0ae601-7dd7-4052-9f53-326aff824d4e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Market Information'])[2]/preceding::button[1]</value>
-      <webElementGuid>0e1247c3-4fbe-4340-88ed-1d849df4fb93</webElementGuid>
+      <webElementGuid>5c039358-55c8-462c-8ee7-84083406e846</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Continue']/parent::*</value>
-      <webElementGuid>06c0d46b-85b4-4c28-bbc9-0f979eb14c1d</webElementGuid>
+      <webElementGuid>f7ec77bf-d76c-46fe-84e6-a80a1ae26b7c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//mip-button/button</value>
-      <webElementGuid>86db62d7-c3f5-46fd-be17-8663259fb65f</webElementGuid>
+      <webElementGuid>d18e823d-5b82-4d86-83c9-b77578fb4dc6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[(text() = 'Continue' or . = 'Continue')]</value>
-      <webElementGuid>ba73c240-1a16-4057-81e1-a014bf12eee7</webElementGuid>
+      <webElementGuid>1ada87ab-8ee3-44e6-8570-b207493ec8c3</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

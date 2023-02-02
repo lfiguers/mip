@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>mat-icon</value>
-      <webElementGuid>0d706018-bcd3-408e-befb-ee563d2c634c</webElementGuid>
+      <webElementGuid>bfc9f0e0-0fd8-4e16-b08a-ccd10358f77d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>role</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>e8824a8e-10f7-4d0d-bf80-50636dec3b1d</webElementGuid>
+      <webElementGuid>fd3f338b-a284-45fe-826b-4d5eed227457</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>mat-icon notranslate material-icons mat-ligature-font mat-icon-no-color</value>
-      <webElementGuid>8196a771-746d-406e-9ccf-ad16f9284923</webElementGuid>
+      <webElementGuid>5f0bb2a8-2dfb-4e2f-95ed-5fd42bf1e7a4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>aria-hidden</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>60dc4c80-d48e-4a19-9dc9-758a23f9e600</webElementGuid>
+      <webElementGuid>6eb96c53-a845-468d-8a28-9b4985204387</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>data-mat-icon-type</name>
       <type>Main</type>
       <value>font</value>
-      <webElementGuid>60de9d4c-6eb8-4e64-86aa-e602a54d1feb</webElementGuid>
+      <webElementGuid>f58ca87b-559b-425c-ad86-9341bed613fa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>text</name>
       <type>Main</type>
       <value>close</value>
-      <webElementGuid>8076cc3d-c445-4960-bb72-5769af2c8db3</webElementGuid>
+      <webElementGuid>0e1df30f-5967-43e8-95ab-26616dc106d5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/app-root[1]/div[@class=&quot;mip-app&quot;]/div[@class=&quot;mip-app__main-row&quot;]/div[@class=&quot;mip-app__main-row__main-column&quot;]/div[@class=&quot;mip-app__main-row__main-column__content mip-app__main-row__main-column__content--home&quot;]/mip-conditions[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;mip-conditions ng-star-inserted&quot;]/div[@class=&quot;mip-conditions__box&quot;]/div[@class=&quot;mip-conditions__title&quot;]/section[@class=&quot;mip-filters__content--header ng-star-inserted&quot;]/button[@class=&quot;mat-focus-indicator mip-dashboard__filters__buttons mat-icon-button mat-button-base cdk-focused cdk-mouse-focused&quot;]/span[@class=&quot;mat-button-wrapper&quot;]/mat-icon[@class=&quot;mat-icon notranslate material-icons mat-ligature-font mat-icon-no-color&quot;]</value>
-      <webElementGuid>16456d6c-b5f2-4c94-a829-4d3df5800fcb</webElementGuid>
+      <webElementGuid>eb7fe048-bc84-453f-ba9b-123c34d742c3</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Privacy policy'])[1]/following::mat-icon[1]</value>
-      <webElementGuid>5b6c4673-7a6f-409d-8b67-091713d14550</webElementGuid>
+      <webElementGuid>2409f3ad-3bee-4eb2-a33f-83520e2ea5aa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='.'])[1]/following::mat-icon[1]</value>
-      <webElementGuid>d5f4c357-3f2e-468f-8e99-1c4ef6f48594</webElementGuid>
+      <webElementGuid>7091f9c0-1f73-472b-b1f8-f707cd6b9966</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Find the market information you need and our value proposition in one place'])[1]/preceding::mat-icon[1]</value>
-      <webElementGuid>74a44386-9cf3-43fd-9604-28a09eb1193b</webElementGuid>
+      <webElementGuid>ac45b11d-5207-41cf-8b52-c7748f03adcd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Market Information'])[2]/preceding::mat-icon[1]</value>
-      <webElementGuid>175ca8cc-afdc-46a6-8783-571addff5deb</webElementGuid>
+      <webElementGuid>91549b71-5d0b-4185-b772-51b7903003f8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='close']/parent::*</value>
-      <webElementGuid>1ea7e1ab-f380-43d1-9253-8ca6328b3433</webElementGuid>
+      <webElementGuid>c3212ff0-d863-4db7-980d-7cedbe5f8dfe</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//span/mat-icon</value>
-      <webElementGuid>a49f7d6d-fded-477c-a752-828bca347311</webElementGuid>
+      <webElementGuid>97618970-92ff-4fdb-ac8c-f1ad45e402d6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,6 +126,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//mat-icon[(text() = 'close' or . = 'close')]</value>
-      <webElementGuid>f2a75109-09ae-4e18-ab80-ddb385614361</webElementGuid>
+      <webElementGuid>e058373b-ceac-4f50-b23d-f596b7c88605</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

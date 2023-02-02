@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>span_Go back</name>
+   <name>span_61,594,305</name>
    <tag></tag>
-   <elementGuidId>7b070b2d-9e36-4e0c-8994-cea95dedd5fb</elementGuidId>
+   <elementGuidId>b0443aa8-43f9-40f7-a1d1-d1edc6bb01fe</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>a.mip-section__header--go-back.ng-star-inserted > span</value>
+         <value>td > span</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Privacy policy'])[1]/following::span[1]</value>
+         <value>//div[@id='incomeStatement']/div[2]/table/tbody/tr/td/span</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,78 +22,92 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>06f6a589-af9b-4bd6-8880-401aea838507</webElementGuid>
+      <webElementGuid>1a106121-cab0-495d-9f32-4eabd9505d02</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Go back</value>
-      <webElementGuid>af54b90e-4753-4453-aee0-bfbb43195bca</webElementGuid>
+      <value>
+						61,594,305
+					</value>
+      <webElementGuid>cf3b81e0-c595-4a54-a05f-3eee8fcafed3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[1]/app-root[1]/div[@class=&quot;mip-app&quot;]/div[@class=&quot;mip-app__main-row&quot;]/div[@class=&quot;mip-app__main-row__main-column&quot;]/div[@class=&quot;mip-app__main-row__main-column__content&quot;]/ng-component[@class=&quot;ng-star-inserted&quot;]/mip-section[@class=&quot;mip-terms-and-conditions&quot;]/div[@class=&quot;mip-section mip-section--big&quot;]/div[@class=&quot;mip-section__header ng-star-inserted&quot;]/a[@class=&quot;mip-section__header--go-back ng-star-inserted&quot;]/span[1]</value>
-      <webElementGuid>af860dff-e9f2-451b-9237-df5af805c91f</webElementGuid>
+      <value>id(&quot;incomeStatement&quot;)/div[@class=&quot;table-wrapper&quot;]/table[@class=&quot;table table-striped table-sort&quot;]/tbody[1]/tr[1]/td[1]/span[1]</value>
+      <webElementGuid>90eaf51d-4b37-482b-b1a9-04bf2efce9f3</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
+      <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Privacy policy'])[1]/following::span[1]</value>
-      <webElementGuid>706bf8ae-e95b-4d00-b6d8-6efdff69b989</webElementGuid>
+      <value>//div[@id='incomeStatement']/div[2]/table/tbody/tr/td/span</value>
+      <webElementGuid>39d00194-c874-4274-a322-4122d658a5d0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='.'])[1]/following::span[1]</value>
-      <webElementGuid>11184a2a-9287-4811-8d00-f600c753f562</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Revenue'])[1]/following::span[1]</value>
+      <webElementGuid>691bd0b4-fc2b-48cc-b0b9-329dc25f1afe</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Privacy policy'])[2]/preceding::span[1]</value>
-      <webElementGuid>eb1f8225-4e7a-4cbc-9c52-ccf6cadab9b7</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='XLSX'])[5]/following::span[2]</value>
+      <webElementGuid>dcc2ed7b-add6-438c-95b7-a1f5bb10c37e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Market Intelligence Platform (MIP)'])[1]/preceding::span[1]</value>
-      <webElementGuid>3378c1a3-25d7-45cd-ae58-971852e1a749</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cost of Revenue'])[1]/preceding::span[5]</value>
+      <webElementGuid>b4eb24d6-6359-4a41-9be3-8519656a9429</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Go back']/parent::*</value>
-      <webElementGuid>55e82655-cd4c-4980-bbe0-acb1e1632eb8</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gross Profit'])[1]/preceding::span[11]</value>
+      <webElementGuid>17d360f9-5bb9-48d9-8c10-c64ff6725d48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='61,594,305']/parent::*</value>
+      <webElementGuid>6182388d-dfc9-4cec-97d2-5bf6c7c9887b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//a/span</value>
-      <webElementGuid>71da4252-b7db-4b5d-89c9-1cbf57536f26</webElementGuid>
+      <value>//td/span</value>
+      <webElementGuid>41ce3b57-00ac-48c8-a39b-47996f9b2824</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//span[(text() = 'Go back' or . = 'Go back')]</value>
-      <webElementGuid>25f3f97f-eeb2-4d98-bf69-670bbb2024d2</webElementGuid>
+      <value>//span[(text() = '
+						61,594,305
+					' or . = '
+						61,594,305
+					')]</value>
+      <webElementGuid>4d6625b0-bd7d-4206-bc97-8d0266032937</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

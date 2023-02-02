@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>78d3c2ff-ea3b-43f0-9dc2-3f0024ee7b6a</webElementGuid>
+      <webElementGuid>17a63be6-16df-4197-b818-856974844947</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>mat-checkbox-inner-container</value>
-      <webElementGuid>6bebf6f7-94e6-4eef-a6ba-cb4e193303c1</webElementGuid>
+      <webElementGuid>d6ef9f93-1cb6-4f34-9d34-e914735013d9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;terms&quot;)/label[@class=&quot;mat-checkbox-layout&quot;]/span[@class=&quot;mat-checkbox-inner-container&quot;]</value>
-      <webElementGuid>50d61ab2-6016-4807-8c09-eb61431cd7b1</webElementGuid>
+      <webElementGuid>a55bf7e8-99da-4d8d-8ff1-93d75422b192</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//mat-checkbox[@id='terms']/label/span</value>
-      <webElementGuid>92918091-56e4-4720-8e3a-e06876957bf8</webElementGuid>
+      <webElementGuid>c28d86f7-f780-4c12-98f3-cf4690568bb6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Privacy policy'])[1]/following::span[1]</value>
-      <webElementGuid>f752dd68-8119-4091-94e7-2f03ecf96843</webElementGuid>
+      <webElementGuid>a76b6f15-e44e-471a-851d-e36d4926ac89</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='.'])[1]/following::span[1]</value>
-      <webElementGuid>c6eeebd1-613c-41d5-b9ec-981e442b8515</webElementGuid>
+      <webElementGuid>90e1ccd7-4b59-4d8a-87e1-127ce2fc1ddb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Terms of use.'])[1]/preceding::span[7]</value>
-      <webElementGuid>2cc6cc6a-5aa1-4dab-8634-34a2378a6f08</webElementGuid>
+      <webElementGuid>b7835853-400d-49f0-b7ce-cde1495d3464</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,6 +78,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//label/span</value>
-      <webElementGuid>e7969ea4-2e6a-4e63-9781-6811da08fe47</webElementGuid>
+      <webElementGuid>bbad2139-7092-4f5d-8ac6-63ae0466c3c9</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
