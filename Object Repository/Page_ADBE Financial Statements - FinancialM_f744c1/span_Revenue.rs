@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Revenue</name>
+   <tag></tag>
+   <elementGuidId>51e99429-35fe-4f64-ac7e-3c8238e23f52</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>th > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='incomeStatement']/div[2]/table/tbody/tr/th/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c3264282-5fd7-4e9a-841f-a5ed5d9f5c63</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Revenue</value>
+      <webElementGuid>fbcd1e52-dd89-4fcd-83eb-8782f9fcd9ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;incomeStatement&quot;)/div[@class=&quot;table-wrapper&quot;]/table[@class=&quot;table table-striped table-sort&quot;]/tbody[1]/tr[1]/th[1]/span[1]</value>
+      <webElementGuid>52b721e4-3f03-4917-a769-9e02691523a2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='incomeStatement']/div[2]/table/tbody/tr/th/span</value>
+      <webElementGuid>d50e7c5e-ca2e-4875-98e4-43875d9948c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='XLSX'])[5]/following::span[1]</value>
+      <webElementGuid>4d4b9d82-6105-4bb6-969d-c6096176f5fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='XLSX'])[4]/following::span[1]</value>
+      <webElementGuid>9b23b113-be11-4558-836e-6a0b61660212</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cost of Revenue'])[1]/preceding::span[6]</value>
+      <webElementGuid>48d11a25-fd4e-43fd-a9d1-790dc33ade1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gross Profit'])[1]/preceding::span[12]</value>
+      <webElementGuid>2adf7a13-6cc7-4cf0-9383-0d3d4693aaed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Revenue']/parent::*</value>
+      <webElementGuid>83070066-52df-4675-a7c0-8649025e68ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th/span</value>
+      <webElementGuid>b4bf662f-ea0a-48ce-a6a2-fa04ff83256a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Revenue' or . = 'Revenue')]</value>
+      <webElementGuid>4ea04a97-d64c-4a6f-903b-de7213bec9ed</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

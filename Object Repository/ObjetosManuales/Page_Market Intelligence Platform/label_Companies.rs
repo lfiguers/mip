@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Companies</name>
+   <tag></tag>
+   <elementGuidId>c7458821-dda2-48dd-93e9-e3b4ed98c188</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Market Landscape'])[1]/following::label[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>950fd172-3f34-441c-a019-00acf9f4f662</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-tns-c70-0</value>
+      <webElementGuid>08c112b1-f473-49ae-a397-5477b1573532</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Companies</value>
+      <webElementGuid>7d6e3480-176a-4c6b-b337-0ae118aadb1f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/div[@class=&quot;mip-app&quot;]/div[@class=&quot;mip-app__main-row&quot;]/mip-menu[@class=&quot;ng-tns-c70-0&quot;]/div[@class=&quot;ng-tns-c70-0 mip-menu&quot;]/div[@class=&quot;ng-tns-c70-0&quot;]/div[@class=&quot;mip-menu__section ng-tns-c70-0 ng-star-inserted&quot;]/div[@class=&quot;mip-menu__section__item ng-tns-c70-0 ng-star-inserted&quot;]/a[@class=&quot;ng-tns-c70-0 mip-menu__section__item__menu-item&quot;]/label[@class=&quot;ng-tns-c70-0&quot;]</value>
+      <webElementGuid>0ae5c331-bbee-4c80-a840-65d3613cdcc6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Market Landscape'])[1]/following::label[1]</value>
+      <webElementGuid>ba62aedf-6696-46a9-ad49-22bb9a4bceca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Market Information'])[1]/following::label[2]</value>
+      <webElementGuid>2e3e2072-e55d-4cba-b938-365ba214db59</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Competitors'])[1]/preceding::label[1]</value>
+      <webElementGuid>5410221b-4b49-4ae7-bd4d-cf741a4cda8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clients'])[1]/preceding::label[2]</value>
+      <webElementGuid>a787a8e4-9621-4214-8970-29d9378cbbfe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Companies']/parent::*</value>
+      <webElementGuid>37f98f50-4b09-4c5a-ba8d-1bbd94a6fa33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/a/label</value>
+      <webElementGuid>ff4d76bf-74e3-409f-818e-a5eb45f6ed29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Companies' or . = 'Companies')]</value>
+      <webElementGuid>587c9630-90d0-4b0c-8478-f53db3d141a0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

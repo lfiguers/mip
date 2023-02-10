@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validar que los datos de la tabla de Financial Performance (Revenue, Gross Profit…) coinciden con la API de Financial Modeling de Prep cuando se busca por el stock de bolsa de la compañía -Financial Performance - Gráfica</description>
+   <name>7757-Validar que los datos de la tabla de Financial Performance</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e5501068-2204-4f2d-b1ff-91e5a16ffee2</testCaseGuid>
+</TestCaseEntity>

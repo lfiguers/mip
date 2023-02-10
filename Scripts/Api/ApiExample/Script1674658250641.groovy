@@ -25,7 +25,5 @@ WS.verifyElementPropertyValue(Response, '[0].revenue', '61594305000')
 
 WS.verifyElementPropertyValue(Response, '[0].reportedCurrency', 'USD')
 
-
-
-
+WS.sendRequest(findTestObject('financialModeling_api', [('stockId') : 'AMZN']))
 

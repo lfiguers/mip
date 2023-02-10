@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Ready to start exploring_mip-onboarding_007b21</name>
+   <tag></tag>
+   <elementGuidId>f2acb488-8ca6-438d-9a6c-49029390b2fe</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-dialog-container[@id='mat-dialog-0']/mip-onboarding-home/div/div[2]/div/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.mip-onboarding__image-center.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>782a2177-a0ce-4caa-a7ec-019ed712b9e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mip-onboarding__image-center ng-star-inserted</value>
+      <webElementGuid>c56c6b10-fbd1-4050-817e-e9c121926805</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-dialog-0&quot;)/mip-onboarding-home[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;mip-onboarding&quot;]/div[@class=&quot;mip-onboarding__main-content&quot;]/div[@class=&quot;mip-onboarding__main-content__doble-content&quot;]/div[@class=&quot;mip-onboarding__main-content__doble-content--side&quot;]/div[@class=&quot;mip-onboarding__image-center ng-star-inserted&quot;]</value>
+      <webElementGuid>aefd1308-14e4-414c-b664-21d6c313e99e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-dialog-container[@id='mat-dialog-0']/mip-onboarding-home/div/div[2]/div/div[2]/div</value>
+      <webElementGuid>baf77556-b3ca-4425-a6be-5fd6671ddb1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ready to start exploring?'])[1]/following::div[2]</value>
+      <webElementGuid>197b38a5-d0e8-4633-9ac3-8aa11bd69f7c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Skip'])[1]/following::div[6]</value>
+      <webElementGuid>1735da79-64d8-406a-9367-a6436358bf08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Go back'])[1]/preceding::div[1]</value>
+      <webElementGuid>88d599aa-27fd-44f2-918b-406c2b4ca106</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Next'])[1]/preceding::div[1]</value>
+      <webElementGuid>6acf009d-b2e4-403e-aa2c-ba65614be5f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div/div[2]/div</value>
+      <webElementGuid>44c0a3db-8025-4b7a-b188-e4c344bfc7d6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

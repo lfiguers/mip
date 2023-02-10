@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Fila2022ColRevenue</name>
+   <tag></tag>
+   <elementGuidId>db149000-d54d-45cf-b031-888b4b55981b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='pr_id_10-table']/tbody[1]/tr[1]/td[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//table[@id='pr_id_7-table']/tbody/tr[1]/td[2]</value>
+      <webElementGuid>e9776597-c347-4978-8f5a-f510dafad684</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

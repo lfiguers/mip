@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Skip</name>
+   <tag></tag>
+   <elementGuidId>3be78235-18ae-494e-bdcc-e20fca15dcef</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-dialog-container[@id='mat-dialog-0']/mip-onboarding-home/div/div/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.mip-onboarding__skip-button.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>c4a34fd7-d2a4-4563-b7a3-d33611115279</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mip-onboarding__skip-button ng-star-inserted</value>
+      <webElementGuid>cd141a5b-4771-4cf9-9614-f6e4459667a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Skip</value>
+      <webElementGuid>bba602b2-a170-45e0-8a22-1a893c8acfce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-dialog-0&quot;)/mip-onboarding-home[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;mip-onboarding&quot;]/div[@class=&quot;mip-onboarding-header&quot;]/button[@class=&quot;mip-onboarding__skip-button ng-star-inserted&quot;]</value>
+      <webElementGuid>6369936e-8c8c-45fb-8388-04666a42d84a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-dialog-container[@id='mat-dialog-0']/mip-onboarding-home/div/div/button</value>
+      <webElementGuid>eed78452-a9a6-42f6-a211-8f5b2c38969d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Corporate Research Unit'])[1]/following::button[2]</value>
+      <webElementGuid>4ba38cb4-dc98-4457-8b37-73eaf1ff551a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Market Intelligence Platform'])[3]/following::button[2]</value>
+      <webElementGuid>f742777c-cd06-4623-8334-be9ae756ffb9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Welcome to Market Intelligence Platform (MIP)'])[1]/preceding::button[1]</value>
+      <webElementGuid>f09218a5-efa2-47de-aa95-60c76c731c40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Next'])[1]/preceding::button[1]</value>
+      <webElementGuid>419dd62e-ca76-4cc4-a28a-a1ba6f8d630b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Skip']/parent::*</value>
+      <webElementGuid>6f510725-d40c-4f12-9b07-781fcc297a01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mip-onboarding-home/div/div/button</value>
+      <webElementGuid>63f609ab-5e39-4874-8eb4-766ce6b24e85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = ' Skip' or . = ' Skip')]</value>
+      <webElementGuid>8cbcf560-346b-480d-bbe2-e328b28266a2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

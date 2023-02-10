@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Financial Statements</name>
+   <tag></tag>
+   <elementGuidId>6cdd0799-39bf-46b7-a04a-2aa603e49538</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main-container-full']/div/div[2]/h6[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>d98a9eee-0c16-468e-927a-50a844be93e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/financial-statements/ADBE</value>
+      <webElementGuid>5fc86be2-68d4-40ce-8062-0e1e0252c410</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>stock-menu__item</value>
+      <webElementGuid>79c98f99-014f-4b6b-b90b-09fd2a674ed6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Financial Statements</value>
+      <webElementGuid>c96b4333-6634-409b-adee-9238e286f8ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-container-full&quot;)/div[1]/div[@class=&quot;stock-menu&quot;]/h6[2]/a[@class=&quot;stock-menu__item&quot;]</value>
+      <webElementGuid>9ff7b81e-b675-45c4-9965-1b641753fbc4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-container-full']/div/div[2]/h6[2]/a</value>
+      <webElementGuid>12f6d75f-8b6a-4fba-b6e9-596a40185f03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Financial Statements')]</value>
+      <webElementGuid>d952c3e4-2c13-48d5-99e5-3f5bb8403c8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Financial Summary'])[1]/following::a[1]</value>
+      <webElementGuid>5f9a5735-75c2-41fc-aa32-9a8c168808eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add to Favorites'])[1]/following::a[2]</value>
+      <webElementGuid>a759adb9-4cc5-4f7b-802a-504a259a2973</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quarter Financials'])[1]/preceding::a[1]</value>
+      <webElementGuid>446aa8e6-2e19-45b5-9f4e-3b73882eb0a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chart'])[1]/preceding::a[2]</value>
+      <webElementGuid>fea4b625-1823-4204-b1d0-8587c79b3332</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Financial Statements']/parent::*</value>
+      <webElementGuid>0c3e718f-0dc9-484e-8305-2bc7b147b7db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/financial-statements/ADBE')]</value>
+      <webElementGuid>8a5e6645-1f0a-4d82-8688-4a1b4927e73a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h6[2]/a</value>
+      <webElementGuid>94abc044-a99f-4066-9344-60cba0952f3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/financial-statements/ADBE' and (text() = 'Financial Statements' or . = 'Financial Statements')]</value>
+      <webElementGuid>db01a099-200a-4971-a026-3e19bebb4875</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

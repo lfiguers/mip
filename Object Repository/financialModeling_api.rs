@@ -15,7 +15,7 @@
    <maxResponseSize>-1</maxResponseSize>
    <migratedVersion>5.4.1</migratedVersion>
    <restRequestMethod>GET</restRequestMethod>
-   <restUrl>https://financialmodelingprep.com/api/v3/income-statement/ACN?limit=1&amp;apikey=fa81bc4991bdafc296209348553902eb</restUrl>
+   <restUrl>https://financialmodelingprep.com/api/v3/income-statement/${stockId}?limit=1&amp;apikey=fa81bc4991bdafc296209348553902eb</restUrl>
    <serviceType>RESTful</serviceType>
    <soapBody></soapBody>
    <soapHeader></soapHeader>
@@ -24,6 +24,13 @@
    <soapServiceFunction></soapServiceFunction>
    <socketTimeout>-1</socketTimeout>
    <useServiceInfoFromWsdl>true</useServiceInfoFromWsdl>
+   <variables>
+      <defaultValue>'GOOG'</defaultValue>
+      <description></description>
+      <id>b389f3e2-2c06-4958-af39-acddc9c20ed2</id>
+      <masked>false</masked>
+      <name>stockId</name>
+   </variables>
    <verificationScript>import static org.assertj.core.api.Assertions.*
 
 import com.kms.katalon.core.testobject.RequestObject
@@ -37,18 +44,9 @@ import internal.GlobalVariable as GlobalVariable
 RequestObject request = WSResponseManager.getInstance().getCurrentRequest()
 
 
+def variables = request.getVariables()
+def variable = variables.get('symbol')
 
-
-
-
-
-
-
-
-
-
-
-
-</verificationScript>
+println(variable)</verificationScript>
    <wsdlAddress></wsdlAddress>
 </WebServiceRequestEntity>

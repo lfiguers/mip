@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_6.098.000.000_operatingIncome</name>
+   <tag></tag>
+   <elementGuidId>1034e263-cff7-43ac-8400-701ddf217e0c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='pr_id_9-table']/tbody/tr/td[4]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7a546681-74e9-4a6f-bd65-9ef70a01a482</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>currency ng-star-inserted</value>
+      <webElementGuid>8b3e5f50-b750-4cd6-9e24-a671884f1b6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> 6.098.000.000 $ </value>
+      <webElementGuid>0caf0b8a-fba9-480f-8334-46d1c8305e37</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pr_id_9-table&quot;)/tbody[@class=&quot;p-element p-datatable-tbody&quot;]/tr[@class=&quot;p-selectable-row ng-star-inserted&quot;]/td[@class=&quot;p-element ui-resizable-column currency ng-star-inserted&quot;]/span[@class=&quot;currency ng-star-inserted&quot;]</value>
+      <webElementGuid>5ddb8876-e76b-4ad4-b96e-9dd45e002aa0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='pr_id_9-table']/tbody/tr/td[4]/span</value>
+      <webElementGuid>851ffd19-4770-40ce-a592-28869f811081</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Net income'])[1]/following::span[4]</value>
+      <webElementGuid>59d0027b-2266-4359-910f-baa0e5d56099</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Operating income'])[1]/following::span[6]</value>
+      <webElementGuid>040932cd-253d-4045-bac6-49986b226bda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Source:'])[1]/preceding::span[18]</value>
+      <webElementGuid>68bdf628-dc19-4492-bd99-c0e580e0023f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='6.098.000.000 $']/parent::*</value>
+      <webElementGuid>5b0c4e9d-1ea5-40c7-88fd-ecaf15a8d2ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[4]/span</value>
+      <webElementGuid>705bbb3c-c644-4fbc-b62a-01544de4c28e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' 6.098.000.000 $ ' or . = ' 6.098.000.000 $ ')]</value>
+      <webElementGuid>81dd1c27-d7a2-43cb-a40b-787eb6b892a4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

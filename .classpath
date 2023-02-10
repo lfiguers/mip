@@ -158,7 +158,6 @@
 	</classpathentry>
 	<classpathentry kind="lib" path="C:/Users/lfiguers/Downloads/Katalon_Studio_Windows_64-8.5.5/Katalon_Studio_Windows_64-8.5.5/configuration/org.eclipse.osgi/30/0/.cp/resources/basic-report/katalon-studio-report-plugin.jar"/>
 	<classpathentry kind="lib" path="C:/Users/lfiguers/Downloads/Katalon_Studio_Windows_64-8.5.5/Katalon_Studio_Windows_64-8.5.5/configuration/plugin/install/221616/1.0.1/katalon-plugin-assert-custom-keyword.jar"/>
-	<classpathentry kind="lib" path="C:/Users/lfiguers/Downloads/Katalon_Studio_Windows_64-8.5.5/Katalon_Studio_Windows_64-8.5.5/configuration/plugin/install/221615/1.0.5/katalon-studio-applitools-plugin (1).jar"/>
 	<classpathentry kind="con" path="GROOVY_SUPPORT"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>tabla_aliances_dev</name>
+   <tag></tag>
+   <elementGuidId>31b089c1-1ea1-4a49-964c-98184c8fbb36</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/app-root/div/div/div/div/mip-company-detail/div[2]/div[1]/mip-section/div/mip-competitors-financial-performance-table/div/mip-table/table/tbody</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

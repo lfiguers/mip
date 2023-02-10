@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_11,171,297</name>
+   <tag></tag>
+   <elementGuidId>be821f67-2e92-4ff2-be2f-953ae08ab441</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='incomeStatement']/div[2]/table/tbody/tr/td[4]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>93100953-661f-4e5b-9a1b-a5c0657f6ed3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+						11,171,297
+					</value>
+      <webElementGuid>64d62e92-01c0-4c48-a50e-c7674d7ae0aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;incomeStatement&quot;)/div[@class=&quot;table-wrapper&quot;]/table[@class=&quot;table table-striped table-sort&quot;]/tbody[1]/tr[1]/td[4]/span[1]</value>
+      <webElementGuid>439a0324-e284-40c4-b04e-7d2b7ea57413</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='incomeStatement']/div[2]/table/tbody/tr/td[4]/span</value>
+      <webElementGuid>9c161f81-5340-4116-b50f-dd9fff098399</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Revenue'])[1]/following::span[4]</value>
+      <webElementGuid>ec1e91bf-1025-4c31-86a3-358cb9fcd784</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='XLSX'])[5]/following::span[5]</value>
+      <webElementGuid>06833114-e8ad-465f-8bca-fc42e6f7389a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cost of Revenue'])[1]/preceding::span[2]</value>
+      <webElementGuid>6d857bb9-60cd-4ec2-95be-1873cdfe44d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gross Profit'])[1]/preceding::span[8]</value>
+      <webElementGuid>11d27384-2e37-458d-90bc-fe2a9a216151</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='11,171,297']/parent::*</value>
+      <webElementGuid>efdeab92-c78e-4e1e-a3ea-a075c6936c91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[4]/span</value>
+      <webElementGuid>e5559ba8-5888-4090-883b-f0da46615bf1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '
+						11,171,297
+					' or . = '
+						11,171,297
+					')]</value>
+      <webElementGuid>e01787dc-3b79-4eea-b585-a656783fe5db</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

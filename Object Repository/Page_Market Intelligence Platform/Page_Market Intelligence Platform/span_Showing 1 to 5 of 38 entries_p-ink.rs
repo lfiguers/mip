@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Showing 1 to 5 of 38 entries_p-ink</name>
+   <tag></tag>
+   <elementGuidId>9461adcb-f545-416e-b5fc-6c3e9d20db29</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='pr_id_3']/p-paginator/div/span[2]/button/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.p-ripple.p-element.p-paginator-page.p-paginator-element.p-link.p-highlight.ng-star-inserted > span.p-ink</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>cf489fa5-21f1-4ba3-813c-f6cafa56de97</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-ink</value>
+      <webElementGuid>92e1d71c-4ea6-492f-88b4-b24022b84ed8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pr_id_3&quot;)/p-paginator[@class=&quot;p-element ng-star-inserted&quot;]/div[@class=&quot;p-paginator-bottom p-paginator p-component ng-star-inserted&quot;]/span[@class=&quot;p-paginator-pages ng-star-inserted&quot;]/button[@class=&quot;p-ripple p-element p-paginator-page p-paginator-element p-link p-highlight ng-star-inserted&quot;]/span[@class=&quot;p-ink&quot;]</value>
+      <webElementGuid>2c1db03d-bb44-42fc-bd48-a98bbbd6e1e9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pr_id_3']/p-paginator/div/span[2]/button/span</value>
+      <webElementGuid>a5b88167-cd68-4502-bbb5-b4874a25c6e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]/button/span</value>
+      <webElementGuid>42ba0235-d9c8-464a-b481-15811282ba0c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

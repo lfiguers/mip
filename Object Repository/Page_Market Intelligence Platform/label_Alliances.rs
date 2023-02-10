@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Alliances</name>
+   <tag></tag>
+   <elementGuidId>bd02d1a8-fd49-4b5f-9d9d-4fa671a60bf8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Clients'])[1]/following::label[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>ca804df6-3139-480c-a59d-2ae22fc7dfb4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-tns-c70-0</value>
+      <webElementGuid>1c2402d5-f5e8-48ff-9af7-422f8ef793bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Alliances</value>
+      <webElementGuid>22368a89-b655-470f-99a2-81ca231eed3b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/div[@class=&quot;mip-app&quot;]/div[@class=&quot;mip-app__main-row&quot;]/mip-menu[@class=&quot;ng-tns-c70-0&quot;]/div[@class=&quot;ng-tns-c70-0 mip-menu&quot;]/div[@class=&quot;ng-tns-c70-0&quot;]/div[@class=&quot;mip-menu__section ng-tns-c70-0 ng-star-inserted&quot;]/div[@class=&quot;mip-menu__section__item ng-tns-c70-0 ng-star-inserted&quot;]/div[@class=&quot;mip-menu__section__item__subitems ng-tns-c70-0 ng-trigger ng-trigger-collapse ng-star-inserted&quot;]/a[@class=&quot;ng-tns-c70-0 mip-menu__section__item__subitems__menu-subitem ng-star-inserted&quot;]/label[@class=&quot;ng-tns-c70-0&quot;]</value>
+      <webElementGuid>8c1ef585-3766-4339-9ae7-6011bf50539a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clients'])[1]/following::label[1]</value>
+      <webElementGuid>6780c251-af0f-4cc7-b091-8e8d97bb5cb1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Competitors'])[1]/following::label[2]</value>
+      <webElementGuid>667919ec-d533-41b0-bb68-b655c9a6ab55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Analysts'])[1]/preceding::label[1]</value>
+      <webElementGuid>1f5aff3b-91ef-478e-8d57-9b7210343880</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Innovation Trends'])[1]/preceding::label[2]</value>
+      <webElementGuid>54bc1992-29ba-4578-8c96-b85aa38ade88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Alliances']/parent::*</value>
+      <webElementGuid>e206058c-7894-43d5-8342-0bbd4a439451</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[3]/label</value>
+      <webElementGuid>f71a31ab-08fe-4ff7-b4a7-15f161893297</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Alliances' or . = 'Alliances')]</value>
+      <webElementGuid>b3f078e8-6b5e-4f47-a0f4-3841849e5f40</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

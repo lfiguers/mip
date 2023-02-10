@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_I have read and agree to the Privacy policy</name>
+   <tag></tag>
+   <elementGuidId>73ae5800-6939-4444-8613-ab76f3c8bb23</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-checkbox[@id='privacy']/label/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#privacy > label.mat-checkbox-layout > span.mat-checkbox-label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>1326ae2a-3300-4445-83ef-a940bbb71336</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-checkbox-label</value>
+      <webElementGuid>57f732aa-61fe-4b3c-a8f3-e38dd6e3902d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>  I have read and agree to the Privacy policy. </value>
+      <webElementGuid>29ee729e-498f-459b-bba6-0aa3d4e34dc2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;privacy&quot;)/label[@class=&quot;mat-checkbox-layout&quot;]/span[@class=&quot;mat-checkbox-label&quot;]</value>
+      <webElementGuid>207f0523-1633-488d-b140-ba18a2de5cf4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-checkbox[@id='privacy']/label/span[2]</value>
+      <webElementGuid>a64a37dc-0c43-45d3-8239-abc72c5fbe68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terms of use.'])[1]/following::span[7]</value>
+      <webElementGuid>7554beaa-06e0-4d37-9d72-377d8b95b149</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Go back'])[1]/preceding::span[2]</value>
+      <webElementGuid>5a77392d-288e-422f-97f8-17864ae15f58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='I have read and agree to the']/parent::*</value>
+      <webElementGuid>9e62a032-4104-4c9b-aea9-430f78fc881f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-checkbox[2]/label/span[2]</value>
+      <webElementGuid>9c856cc5-5607-4dc0-9655-7a4dabdd72f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '  I have read and agree to the Privacy policy. ' or . = '  I have read and agree to the Privacy policy. ')]</value>
+      <webElementGuid>ac5f37ec-6de6-403a-8e68-c9b8921e1385</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

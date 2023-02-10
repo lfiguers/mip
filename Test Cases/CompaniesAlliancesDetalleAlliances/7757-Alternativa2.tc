@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>7757-Alternativa2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d1fa4ee1-68a1-4cb1-93d6-b18ebc797879</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>28ab7f7d-9fb1-41a5-9206-a9e4953ceb3b</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>28ab7f7d-9fb1-41a5-9206-a9e4953ceb3b</id>
+      <masked>false</masked>
+      <name>filaRevenue2022</name>
+   </variable>
+</TestCaseEntity>

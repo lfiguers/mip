@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>label</value>
-      <webElementGuid>0a938fae-19d7-4f13-b93d-3a10cd1658c0</webElementGuid>
+      <webElementGuid>2cc8738a-e647-409f-bb94-fd839f6f78b7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ng-tns-c70-0</value>
-      <webElementGuid>6925a312-6044-4cac-bf6d-5325f1be3e52</webElementGuid>
+      <webElementGuid>eb432040-336b-4899-9b60-e3c46828ffc1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Companies</value>
-      <webElementGuid>348dd6e4-5f12-464c-989c-67d490c88fe7</webElementGuid>
+      <webElementGuid>118a91b3-a200-41be-bb97-05262a2c5c38</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/app-root[1]/div[@class=&quot;mip-app&quot;]/div[@class=&quot;mip-app__main-row&quot;]/mip-menu[@class=&quot;ng-tns-c70-0&quot;]/div[@class=&quot;ng-tns-c70-0 mip-menu&quot;]/div[@class=&quot;ng-tns-c70-0&quot;]/div[@class=&quot;mip-menu__section ng-tns-c70-0 ng-star-inserted&quot;]/div[@class=&quot;mip-menu__section__item ng-tns-c70-0 ng-star-inserted&quot;]/a[@class=&quot;ng-tns-c70-0 mip-menu__section__item__menu-item&quot;]/label[@class=&quot;ng-tns-c70-0&quot;]</value>
-      <webElementGuid>894222ae-5b01-46f0-bcb9-af3c0bc15abc</webElementGuid>
+      <webElementGuid>4b2e128f-7e56-43f8-8050-b893f02cc7ab</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Market Landscape'])[1]/following::label[1]</value>
-      <webElementGuid>062ea384-c155-4d8d-8c78-305b91fa5588</webElementGuid>
+      <webElementGuid>aa4a7068-58c2-4587-b794-0440d3cbc3fd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,23 +62,23 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Market Information'])[1]/following::label[2]</value>
-      <webElementGuid>a2244858-fab7-4663-97a5-ca9dde4c2fb2</webElementGuid>
+      <webElementGuid>aa7077c7-f167-44c7-a001-2ceedc85c1b5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Analysts'])[1]/preceding::label[1]</value>
-      <webElementGuid>154e51b4-908c-4409-9b5c-04afd7f815bd</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Competitors'])[1]/preceding::label[1]</value>
+      <webElementGuid>354ed319-4cb1-4739-a064-690877c68a0f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Innovation Trends'])[1]/preceding::label[2]</value>
-      <webElementGuid>e0676d51-50d4-4b96-a44f-85e8d569200c</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clients'])[1]/preceding::label[2]</value>
+      <webElementGuid>f7ea556a-04b9-45cd-9e13-670eb49fce2d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Companies']/parent::*</value>
-      <webElementGuid>1933409c-e2ab-4b35-b105-acec0d9cb59c</webElementGuid>
+      <webElementGuid>0bbfdfe2-5880-4bc2-bd83-a3241b49561d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/a/label</value>
-      <webElementGuid>178741ef-ba02-4a0d-99b3-3d2ee396298a</webElementGuid>
+      <webElementGuid>58513e4f-a6b5-479e-abf4-b6603c48f6f1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//label[(text() = 'Companies' or . = 'Companies')]</value>
-      <webElementGuid>2e1fcd57-4385-48af-8848-ade6718f3906</webElementGuid>
+      <webElementGuid>a6668bdf-d120-4efe-98c4-68a51b10a053</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
