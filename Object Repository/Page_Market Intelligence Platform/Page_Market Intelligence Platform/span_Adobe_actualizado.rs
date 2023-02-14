@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>span_Adobe</name>
+   <name>span_Adobe_actualizado</name>
    <tag></tag>
    <elementGuidId>0dc73a2f-d86d-4e59-a5b6-8fbdea7070ad</elementGuidId>
    <selectorCollection>

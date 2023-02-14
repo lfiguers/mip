@@ -30,17 +30,28 @@ WebUI.click(findTestObject('ObjetosManuales/Page_Market Intelligence Platform/Pa
 'desde aqui ingresar el ciclo for para recorrer la lista de compañias'
 WebUI.click(findTestObject('Page_Market Intelligence Platform/span_Adobe'))
 
-Revenue22 = WebUI.getText(findTestObject('TablesAlliances/Fila2022ColRevenue'))
-Revenue21 =
-Revenue20 =
-Revenue19 =
-Revenue18 =
-
-
-
+/*Revenue22 = WebUI.getText(findTestObject('TablesAlliances/Fila2022ColRevenue'))
 //numEntero = Integer.valueOf(filaRevenue2022)
 //println(numEntero)
-println(filaRevenue22)
+println(filaRevenue22)*/
+
+
+public void testWebTable()  {
+	WebElement simpleTable = driver.findElement(By.xpath("//table[@id='pr_id_10-table']/tbody"));
+	// Get all rows
+	List<WebElement> rows = simpleTable.findElements(By.tagName("tr"));
+	List<String> webTableData = new ArrayList<String>();
+
+	// Print/Save data from each row
+
+	for (WebElement row : rows) {
+		List<WebElement> cols = row.findElements(By.tagName("td"));
+		for (WebElement col : cols) {
+			webTableData.add(col.getText());
+			 println(col.getText() + "\t");
+		   } 
+	   }
+	}
 
 WebUI.closeBrowser()
 

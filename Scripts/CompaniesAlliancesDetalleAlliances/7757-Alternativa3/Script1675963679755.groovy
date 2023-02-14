@@ -32,8 +32,9 @@ WebUI.click(findTestObject('Page_Market Intelligence Platform/label_Alliances'))
 
 //Activar en test descativad en dev
 WebUI.click(findTestObject('ObjetosManuales/Page_Market Intelligence Platform/Page_Market Intelligence Platform/Page_Market Intelligence Platform/button_Close'))
+
 'desde aqui ingresar el ciclo for para recorrer la lista de compañias'
-WebUI.click(findTestObject('Page_Market Intelligence Platform/span_Adobe'))
+WebUI.click(findTestObject('Page_Market Intelligence Platform/Page_Market Intelligence Platform/span_Adobe_actualizado'))
 
 WebUI.waitForPageLoad(20)
 
@@ -41,12 +42,13 @@ String ExpectedValue = '17.606.000.000'
 
 WebDriver driver = DriverFactory.getWebDriver()
 
-WebElement Table = driver.findElement(By.ByXPath("//*[@id='pr_id_10-table']/tbody"))
+WebElement Table = driver.findElement(By.xpath("//html/body/app-root/div/div/div/div/mip-company-detail/div[2]/div[1]/mip-section/div/div[3]/mip-competitors-financial-performance-table/div/mip-table-ng-prime/div/p-table/div"))
 'Para localizar la tabla'
-//WebElement Table = WebUI.click(findTestObject('TablesAlliances/tabla_aliances_dev'))
+//WebElement Table = WebUI.click(findTestObject('TablesAlliances/tabla_aliances'))
 
 'Para ubicar las filas de la tabla, capturará todas las filas disponibles en la tabla'
-List<WebElement> rows_table = Table.findElements(By.tagName('tr _ngcontent-srr-c125'))
+List<WebElement> rows_table = Table.findElements(By.tagName('tr'))
+
 
 'Para calcular el número de filas en la tabla'
 int rows_count = rows_table.size()
@@ -54,7 +56,8 @@ int rows_count = rows_table.size()
 'Loop se ejecutará para todas las filas de la tabla'
 Loop: for (int row = 0; row < rows_count; row++) {
     'Para ubicar columnas (celdas) de esa fila específica'
-    List<WebElement> Columns_row = rows_table.get(row).findElements(By.tagName('td'))
+    List<WebElement> Columns_row = rows_table.get(row).findElements(By.tagName('tr'))
+	println(Columns_row)
 
     'Para calcular el número de columnas (celdas) en esa fila específica'
     int columns_count = Columns_row.size()
