@@ -52,11 +52,12 @@ List<WebElement> rows_table = Table.findElements(By.tagName('tr'))
 
 'Para calcular el número de filas en la tabla'
 int rows_count = rows_table.size()
+println ("se encontraron ${rows_count} filas")
 
 'Loop se ejecutará para todas las filas de la tabla'
 Loop: for (int row = 0; row < rows_count; row++) {
     'Para ubicar columnas (celdas) de esa fila específica'
-    List<WebElement> Columns_row = rows_table.get(row).findElements(By.tagName('tr'))
+    List<WebElement> Columns_row = rows_table.get(row).findElements(By.tagName('td'))
 	println(Columns_row)
 
     'Para calcular el número de columnas (celdas) en esa fila específica'
@@ -73,8 +74,8 @@ Loop: for (int row = 0; row < rows_count; row++) {
 
         'Comprobando si el texto de la celda coincide con el valor esperado'
         if (celltext == ExpectedValue) {
-            'Obtener el nombre del país si el texto de la celda, es decir, el nombre de la empresa coincide con el valor esperado'
-            println('Text present in row number 3 is: ' + Columns_row.get(2).getText())
+            'Obtener el valor de revenue y ver si el texto de la celda, es decir, el valor en tabla coincide con el valor esperado'
+            println('El texto esperado es igual a -->>>>>>XD : ' + Columns_row.get(2).getText())
 
             'Después de obtener el valor esperado de la tabla, terminaremos el ciclo'
             break

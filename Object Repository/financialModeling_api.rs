@@ -25,9 +25,9 @@
    <socketTimeout>-1</socketTimeout>
    <useServiceInfoFromWsdl>true</useServiceInfoFromWsdl>
    <variables>
-      <defaultValue>'GOOG'</defaultValue>
+      <defaultValue>'SAP'</defaultValue>
       <description></description>
-      <id>b389f3e2-2c06-4958-af39-acddc9c20ed2</id>
+      <id>07b7123d-3390-4a3a-b4d8-69190baba161</id>
       <masked>false</masked>
       <name>stockId</name>
    </variables>

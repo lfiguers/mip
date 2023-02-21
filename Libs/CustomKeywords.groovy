@@ -285,34 +285,23 @@ def static "kms.turing.katalon.plugins.assertj.ListAssert.equalsWithOrder"(
 def static "kms.turing.katalon.plugins.assertj.ListAssert.equalsIgnoreOrder"(
     	java.util.List<Object> actual	
      , 	java.util.List<Object> expected	
-     , 	String description	) {
+     , 	String description	
+     , 	FailureHandling flowControl	) {
     (new kms.turing.katalon.plugins.assertj.ListAssert()).equalsIgnoreOrder(
         	actual
          , 	expected
-         , 	description)
+         , 	description
+         , 	flowControl)
 }
 
 
 def static "kms.turing.katalon.plugins.assertj.ListAssert.equalsIgnoreOrder"(
     	java.util.List<Object> actual	
      , 	java.util.List<Object> expected	
-     , 	String description	
-     , 	FailureHandling flowControl	) {
+     , 	String description	) {
     (new kms.turing.katalon.plugins.assertj.ListAssert()).equalsIgnoreOrder(
         	actual
          , 	expected
-         , 	description
-         , 	flowControl)
-}
-
-
-def static "kms.turing.katalon.plugins.assertj.NumberAssert.equals"(
-    	Object actual	
-     , 	Object expected	
-     , 	String description	) {
-    (new kms.turing.katalon.plugins.assertj.NumberAssert()).equals(
-        	actual
-         , 	expected
          , 	description)
 }
 
@@ -330,11 +319,13 @@ def static "kms.turing.katalon.plugins.assertj.NumberAssert.equals"(
 }
 
 
-def static "kms.turing.katalon.plugins.assertj.NumberAssert.isZero"(
-    	Object value	
+def static "kms.turing.katalon.plugins.assertj.NumberAssert.equals"(
+    	Object actual	
+     , 	Object expected	
      , 	String description	) {
-    (new kms.turing.katalon.plugins.assertj.NumberAssert()).isZero(
-        	value
+    (new kms.turing.katalon.plugins.assertj.NumberAssert()).equals(
+        	actual
+         , 	expected
          , 	description)
 }
 
@@ -347,6 +338,15 @@ def static "kms.turing.katalon.plugins.assertj.NumberAssert.isZero"(
         	value
          , 	description
          , 	flowControl)
+}
+
+
+def static "kms.turing.katalon.plugins.assertj.NumberAssert.isZero"(
+    	Object value	
+     , 	String description	) {
+    (new kms.turing.katalon.plugins.assertj.NumberAssert()).isZero(
+        	value
+         , 	description)
 }
 
 
@@ -372,44 +372,20 @@ def static "kms.turing.katalon.plugins.assertj.NumberAssert.isNegative"(
 
 def static "kms.turing.katalon.plugins.assertj.NumberAssert.isPositive"(
     	Object value	
-     , 	String description	) {
+     , 	String description	
+     , 	FailureHandling flowControl	) {
     (new kms.turing.katalon.plugins.assertj.NumberAssert()).isPositive(
         	value
-         , 	description)
+         , 	description
+         , 	flowControl)
 }
 
 
 def static "kms.turing.katalon.plugins.assertj.NumberAssert.isPositive"(
     	Object value	
-     , 	String description	
-     , 	FailureHandling flowControl	) {
+     , 	String description	) {
     (new kms.turing.katalon.plugins.assertj.NumberAssert()).isPositive(
         	value
-         , 	description
-         , 	flowControl)
-}
-
-
-def static "kms.turing.katalon.plugins.assertj.NumberAssert.lessThanOrEqual"(
-    	Object x	
-     , 	Object y	
-     , 	String description	
-     , 	FailureHandling flowControl	) {
-    (new kms.turing.katalon.plugins.assertj.NumberAssert()).lessThanOrEqual(
-        	x
-         , 	y
-         , 	description
-         , 	flowControl)
-}
-
-
-def static "kms.turing.katalon.plugins.assertj.NumberAssert.lessThanOrEqual"(
-    	Object x	
-     , 	Object y	
-     , 	String description	) {
-    (new kms.turing.katalon.plugins.assertj.NumberAssert()).lessThanOrEqual(
-        	x
-         , 	y
          , 	description)
 }
 
@@ -441,6 +417,17 @@ def static "kms.turing.katalon.plugins.assertj.NumberAssert.greaterThan"(
 def static "kms.turing.katalon.plugins.assertj.NumberAssert.notEqual"(
     	Object actual	
      , 	Object expected	
+     , 	String description	) {
+    (new kms.turing.katalon.plugins.assertj.NumberAssert()).notEqual(
+        	actual
+         , 	expected
+         , 	description)
+}
+
+
+def static "kms.turing.katalon.plugins.assertj.NumberAssert.notEqual"(
+    	Object actual	
+     , 	Object expected	
      , 	String description	
      , 	FailureHandling flowControl	) {
     (new kms.turing.katalon.plugins.assertj.NumberAssert()).notEqual(
@@ -448,17 +435,6 @@ def static "kms.turing.katalon.plugins.assertj.NumberAssert.notEqual"(
          , 	expected
          , 	description
          , 	flowControl)
-}
-
-
-def static "kms.turing.katalon.plugins.assertj.NumberAssert.notEqual"(
-    	Object actual	
-     , 	Object expected	
-     , 	String description	) {
-    (new kms.turing.katalon.plugins.assertj.NumberAssert()).notEqual(
-        	actual
-         , 	expected
-         , 	description)
 }
 
 
@@ -480,6 +456,30 @@ def static "kms.turing.katalon.plugins.assertj.NumberAssert.lessThan"(
      , 	Object y	
      , 	String description	) {
     (new kms.turing.katalon.plugins.assertj.NumberAssert()).lessThan(
+        	x
+         , 	y
+         , 	description)
+}
+
+
+def static "kms.turing.katalon.plugins.assertj.NumberAssert.lessThanOrEqual"(
+    	Object x	
+     , 	Object y	
+     , 	String description	
+     , 	FailureHandling flowControl	) {
+    (new kms.turing.katalon.plugins.assertj.NumberAssert()).lessThanOrEqual(
+        	x
+         , 	y
+         , 	description
+         , 	flowControl)
+}
+
+
+def static "kms.turing.katalon.plugins.assertj.NumberAssert.lessThanOrEqual"(
+    	Object x	
+     , 	Object y	
+     , 	String description	) {
+    (new kms.turing.katalon.plugins.assertj.NumberAssert()).lessThanOrEqual(
         	x
          , 	y
          , 	description)
@@ -654,17 +654,6 @@ def static "kms.turing.katalon.plugins.assertj.StringAssert.matches"(
 def static "kms.turing.katalon.plugins.assertj.StringAssert.contains"(
     	String text	
      , 	String subText	
-     , 	String description	) {
-    (new kms.turing.katalon.plugins.assertj.StringAssert()).contains(
-        	text
-         , 	subText
-         , 	description)
-}
-
-
-def static "kms.turing.katalon.plugins.assertj.StringAssert.contains"(
-    	String text	
-     , 	String subText	
      , 	boolean caseSensitive	
      , 	String description	
      , 	FailureHandling flowControl	) {
@@ -690,42 +679,25 @@ def static "kms.turing.katalon.plugins.assertj.StringAssert.contains"(
 }
 
 
-def static "kms.turing.katalon.plugins.assertj.StringAssert.notContain"(
-    	String text	
-     , 	String subText	
-     , 	boolean caseSensitive	
-     , 	String description	) {
-    (new kms.turing.katalon.plugins.assertj.StringAssert()).notContain(
-        	text
-         , 	subText
-         , 	caseSensitive
-         , 	description)
-}
-
-
-def static "kms.turing.katalon.plugins.assertj.StringAssert.notContain"(
+def static "kms.turing.katalon.plugins.assertj.StringAssert.contains"(
     	String text	
      , 	String subText	
      , 	String description	) {
-    (new kms.turing.katalon.plugins.assertj.StringAssert()).notContain(
+    (new kms.turing.katalon.plugins.assertj.StringAssert()).contains(
         	text
          , 	subText
          , 	description)
 }
 
 
-def static "kms.turing.katalon.plugins.assertj.StringAssert.notContain"(
-    	String text	
-     , 	String subText	
-     , 	boolean caseSensitive	
-     , 	String description	
-     , 	FailureHandling flowControl	) {
-    (new kms.turing.katalon.plugins.assertj.StringAssert()).notContain(
-        	text
-         , 	subText
-         , 	caseSensitive
-         , 	description
-         , 	flowControl)
+def static "kms.turing.katalon.plugins.assertj.StringAssert.notEqual"(
+    	String actual	
+     , 	String expected	
+     , 	String description	) {
+    (new kms.turing.katalon.plugins.assertj.StringAssert()).notEqual(
+        	actual
+         , 	expected
+         , 	description)
 }
 
 
@@ -747,22 +719,50 @@ def static "kms.turing.katalon.plugins.assertj.StringAssert.notEqual"(
 def static "kms.turing.katalon.plugins.assertj.StringAssert.notEqual"(
     	String actual	
      , 	String expected	
-     , 	String description	) {
-    (new kms.turing.katalon.plugins.assertj.StringAssert()).notEqual(
-        	actual
-         , 	expected
-         , 	description)
-}
-
-
-def static "kms.turing.katalon.plugins.assertj.StringAssert.notEqual"(
-    	String actual	
-     , 	String expected	
      , 	boolean caseSensitive	
      , 	String description	) {
     (new kms.turing.katalon.plugins.assertj.StringAssert()).notEqual(
         	actual
          , 	expected
          , 	caseSensitive
+         , 	description)
+}
+
+
+def static "kms.turing.katalon.plugins.assertj.StringAssert.notContain"(
+    	String text	
+     , 	String subText	
+     , 	boolean caseSensitive	
+     , 	String description	) {
+    (new kms.turing.katalon.plugins.assertj.StringAssert()).notContain(
+        	text
+         , 	subText
+         , 	caseSensitive
+         , 	description)
+}
+
+
+def static "kms.turing.katalon.plugins.assertj.StringAssert.notContain"(
+    	String text	
+     , 	String subText	
+     , 	boolean caseSensitive	
+     , 	String description	
+     , 	FailureHandling flowControl	) {
+    (new kms.turing.katalon.plugins.assertj.StringAssert()).notContain(
+        	text
+         , 	subText
+         , 	caseSensitive
+         , 	description
+         , 	flowControl)
+}
+
+
+def static "kms.turing.katalon.plugins.assertj.StringAssert.notContain"(
+    	String text	
+     , 	String subText	
+     , 	String description	) {
+    (new kms.turing.katalon.plugins.assertj.StringAssert()).notContain(
+        	text
+         , 	subText
          , 	description)
 }
