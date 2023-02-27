@@ -16,28 +16,6 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
-import java.net.HttpURLConnection;
-import java.io.BufferedReader;
 
-
-
-Response = WS.sendRequest(findTestObject('financialModeling_api'))
-
-WS.verifyResponseStatusCode(Response, 200)
-
-WS.verifyElementPropertyValue(Response, '[0].revenue', '61594305000')
-
-WS.verifyElementPropertyValue(Response, '[0].reportedCurrency', 'USD')
-
-
-
-
-
-
-
-
-
-
-
-
+WebUI.callTestCase(findTestCase('Casos de prueba transversales/NavegacionInicialMIP1.4SkipIntro'), [:], FailureHandling.STOP_ON_FAILURE)
 

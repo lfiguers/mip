@@ -6,12 +6,12 @@
    <elementGuidId>5af9db23-f963-4e9a-bbc5-0e94922cb9b3</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//mat-checkbox[@id='terms']/label/span[2]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>span.mat-checkbox-label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-checkbox[@id='terms']/label/span[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>1e797a56-1f0c-44d0-9cca-f7e403561529</webElementGuid>
+      <webElementGuid>c50552e2-2e3c-4840-93cf-e14396c11125</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>mat-checkbox-label</value>
-      <webElementGuid>bec6535a-e8e5-4d22-8c82-f168250e1465</webElementGuid>
+      <webElementGuid>dfa27152-b51b-4cef-8f41-855065933a2d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>  I have read the Terms of use.</value>
-      <webElementGuid>80eb1d98-606c-49fb-a331-d54f693c062a</webElementGuid>
+      <webElementGuid>1078f63a-19ff-4699-a20b-b727f1464230</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;terms&quot;)/label[@class=&quot;mat-checkbox-layout&quot;]/span[@class=&quot;mat-checkbox-label&quot;]</value>
-      <webElementGuid>16ca2a8c-6d81-4afb-a7be-e5bf2f17c015</webElementGuid>
+      <webElementGuid>09653e92-56ef-4ad2-8dc9-cda8222d8f52</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//mat-checkbox[@id='terms']/label/span[2]</value>
-      <webElementGuid>851d35c0-cdb4-471a-9bcd-905c101a16af</webElementGuid>
+      <webElementGuid>cfb2a763-4b00-4011-9e6d-418f8475dea2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Terms and Conditions'])[1]/following::span[7]</value>
-      <webElementGuid>49e7a8f8-a3d9-406c-ac6c-06eaa3970f3d</webElementGuid>
+      <webElementGuid>4351463f-9310-48d4-b922-a50736160791</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Corporate Research Unit'])[1]/following::span[7]</value>
-      <webElementGuid>7fbfd0b4-6279-40f7-aed1-8bdb02d888f4</webElementGuid>
+      <webElementGuid>f9441454-0084-4a8d-a378-2e3fec74e67e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='I have read the']/parent::*</value>
-      <webElementGuid>525d1516-0463-41dc-8af9-8095d5e36505</webElementGuid>
+      <webElementGuid>62b7072b-8050-4a43-bd8a-b216285ff5e1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//span[2]</value>
-      <webElementGuid>84390e23-cafb-462d-91e7-b57a629083af</webElementGuid>
+      <webElementGuid>61edba5f-fdec-45be-9b05-ac5ac73dce29</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = '  I have read the Terms of use.' or . = '  I have read the Terms of use.')]</value>
-      <webElementGuid>78cfe588-a344-4020-97fb-bc67978ebdf3</webElementGuid>
+      <webElementGuid>5e5e15e0-e9b8-422c-b6cf-8670d88cd429</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

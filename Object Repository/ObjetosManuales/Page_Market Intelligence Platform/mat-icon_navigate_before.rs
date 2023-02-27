@@ -3,7 +3,7 @@
    <description></description>
    <name>mat-icon_navigate_before</name>
    <tag></tag>
-   <elementGuidId>1a93c36e-57a4-44dc-b5aa-721859b38ad4</elementGuidId>
+   <elementGuidId>899d4a76-3f59-4605-81d4-c1c125d5bf7c</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>mat-icon</value>
-      <webElementGuid>20ca8608-c51b-4ca9-b740-38bd8239d297</webElementGuid>
+      <webElementGuid>8c4e3a04-a631-4d57-8c16-6a1fe53603ad</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>role</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>b90a0dff-bed3-4100-9e70-6b259ee2dc0e</webElementGuid>
+      <webElementGuid>92641483-7c98-42fc-814d-13ba0cfaf8ed</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>mat-icon notranslate mip-menu__collapse-item__button__icon ng-tns-c68-0 material-icons mat-ligature-font mat-icon-no-color</value>
-      <webElementGuid>fe9fa954-4a2a-4667-bf74-04d5afe713c2</webElementGuid>
+      <webElementGuid>cb879951-f0ab-4e31-9fd6-3551d79a0b6e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>aria-hidden</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>cca1256b-bf08-44ad-a656-101c0441f0fc</webElementGuid>
+      <webElementGuid>48fc0606-0b32-480a-9cb4-6010e2110123</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>data-mat-icon-type</name>
       <type>Main</type>
       <value>font</value>
-      <webElementGuid>b537e951-3603-4736-aebb-4ce8ab690861</webElementGuid>
+      <webElementGuid>eac207c3-80b2-4c2e-a879-02eedf434b69</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>text</name>
       <type>Main</type>
       <value>navigate_before</value>
-      <webElementGuid>59bb8f1c-92f3-446a-8e75-a03b3542f527</webElementGuid>
+      <webElementGuid>6f50229c-5eb4-4878-b25c-759fd5f0c0b6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/app-root[1]/div[@class=&quot;mip-app&quot;]/div[@class=&quot;mip-app__main-row&quot;]/mip-menu[@class=&quot;ng-tns-c68-0&quot;]/div[@class=&quot;ng-tns-c68-0 mip-menu mip-menu--collapse&quot;]/div[@class=&quot;ng-tns-c68-0&quot;]/div[@class=&quot;mip-menu__collapse-item ng-tns-c68-0&quot;]/div[@class=&quot;mip-menu__collapse-item__button ng-tns-c68-0&quot;]/mat-icon[@class=&quot;mat-icon notranslate mip-menu__collapse-item__button__icon ng-tns-c68-0 material-icons mat-ligature-font mat-icon-no-color&quot;]</value>
-      <webElementGuid>6baf4ef3-aa8f-4441-9661-4de53b943ee3</webElementGuid>
+      <webElementGuid>5850bb8a-b50d-4cc0-9a34-9ad642244643</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Log out'])[1]/following::mat-icon[2]</value>
-      <webElementGuid>58a5a603-c6a2-4090-8943-04bc9fdf23b4</webElementGuid>
+      <webElementGuid>337073d0-0d46-4ab4-815f-469c96212c65</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='by NTT DATA'])[1]/following::mat-icon[4]</value>
-      <webElementGuid>a6b8f4c3-2586-4066-a93b-555a9c343bbb</webElementGuid>
+      <webElementGuid>70e1a2bc-2b11-49fc-b423-67fd01b6ac4e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/preceding::mat-icon[3]</value>
-      <webElementGuid>95483218-3dbd-4c40-94c6-9b684100ec01</webElementGuid>
+      <webElementGuid>c0086051-7894-4574-a857-4ca31287fc68</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Market Information'])[1]/preceding::mat-icon[3]</value>
-      <webElementGuid>80c2a4a8-0c9f-4ab3-941a-e285ad7df34c</webElementGuid>
+      <webElementGuid>d10a126b-b4a3-4dad-989c-0750fa5a6e49</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='navigate_before']/parent::*</value>
-      <webElementGuid>09a49516-8488-4222-b3bb-fa64c186b285</webElementGuid>
+      <webElementGuid>ae586af9-6187-4a13-bfad-1a8543dca200</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div/mat-icon</value>
-      <webElementGuid>a3cd13f7-08a4-473c-8334-a2bd7077b40c</webElementGuid>
+      <webElementGuid>c3dff848-2e8d-4baa-b4c1-103178e22625</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,6 +126,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//mat-icon[(text() = 'navigate_before' or . = 'navigate_before')]</value>
-      <webElementGuid>46c2bcef-f9a9-4587-b5eb-fb6963b609ea</webElementGuid>
+      <webElementGuid>6042d48b-8884-4ae6-9804-7b47e5696038</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

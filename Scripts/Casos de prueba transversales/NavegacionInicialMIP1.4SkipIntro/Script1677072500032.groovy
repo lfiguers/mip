@@ -16,28 +16,20 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
-import java.net.HttpURLConnection;
-import java.io.BufferedReader;
 
+WebUI.openBrowser('')
 
+WebUI.navigateToUrl('https://mip-test.eassets-int.emeal.nttdata.com/home')
 
-Response = WS.sendRequest(findTestObject('financialModeling_api'))
+WebUI.maximizeWindow()
 
-WS.verifyResponseStatusCode(Response, 200)
+WebUI.click(findTestObject('Object Repository/Page_Market Intelligence Platform/span_I have read the Terms of use'))
 
-WS.verifyElementPropertyValue(Response, '[0].revenue', '61594305000')
+WebUI.click(findTestObject('Object Repository/Page_Market Intelligence Platform/span_I have read and agree to the Privacy policy'))
 
-WS.verifyElementPropertyValue(Response, '[0].reportedCurrency', 'USD')
+WebUI.click(findTestObject('Object Repository/Page_Market Intelligence Platform/button_Next Step'))
 
+WebUI.click(findTestObject('Object Repository/Page_Market Intelligence Platform/button_Get Started Now'))
 
-
-
-
-
-
-
-
-
-
-
+WebUI.click(findTestObject('Page_Market Intelligence Platform/Page_Market Intelligence Platform/mat-icon_navigate_before'))
 

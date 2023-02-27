@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>&quot;En MIP, en el menú &quot;&quot;Companies&quot;&quot;>&quot;&quot;Alliance&quot;&quot;, selección de una compañía, widget &quot;&quot;Company news&quot;&quot;. Se debe verificar el listado de 5 noticias relacionadas con la compañía provenientes de la fuente UP2DATE.
+
+En UP2DATE, se encuentra la noticia de la compañía junto con los &quot;&quot;Topics&quot;&quot; y &quot;&quot;Categories&quot;&quot;, en donde debe aparecer el nombre de la compañía.&quot;</description>
+   <name>7741-Comprobar que esas noticias corresponden a esa compañia</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>80570666-5071-4e2b-b87f-09ce9e54f51d</testCaseGuid>
+</TestCaseEntity>

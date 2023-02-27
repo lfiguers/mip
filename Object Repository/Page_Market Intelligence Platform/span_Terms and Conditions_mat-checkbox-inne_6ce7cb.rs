@@ -6,12 +6,12 @@
    <elementGuidId>1e2cbd31-2883-46d9-b1f2-42c585bc6a16</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//mat-checkbox[@id='terms']/label/span</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>span.mat-checkbox-inner-container</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-checkbox[@id='terms']/label/span</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>a9c6cd7f-3ba1-4c78-9dd8-eb79fd9012f0</webElementGuid>
+      <webElementGuid>b65a4464-9cf9-4dd8-abc1-a01b01f8c5f8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>mat-checkbox-inner-container</value>
-      <webElementGuid>97795e12-c1f4-422a-997f-54d935cc6075</webElementGuid>
+      <webElementGuid>b1397d6f-17f9-45c5-ad38-1fedc26f94a6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;terms&quot;)/label[@class=&quot;mat-checkbox-layout&quot;]/span[@class=&quot;mat-checkbox-inner-container&quot;]</value>
-      <webElementGuid>753e45e7-debf-4631-80bd-e5051ad6f114</webElementGuid>
+      <webElementGuid>0352ae72-39f6-40e0-a275-63df647e3a68</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//mat-checkbox[@id='terms']/label/span</value>
-      <webElementGuid>dc3e6da0-14b2-45d7-8faf-84a24a6387a9</webElementGuid>
+      <webElementGuid>3505938e-37b7-47b4-af6e-c4dad43fa56c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Terms and Conditions'])[1]/following::span[1]</value>
-      <webElementGuid>00d77be5-a769-41ac-87b2-a354a903fbdd</webElementGuid>
+      <webElementGuid>6fdd0a68-f06c-484a-b094-a46cd299c1bd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Corporate Research Unit'])[1]/following::span[1]</value>
-      <webElementGuid>4e127d0f-24e6-49e8-87ba-b3fd693bb0b8</webElementGuid>
+      <webElementGuid>0558f786-404d-4e32-bd30-3ed2f4cffaf5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Terms of use.'])[1]/preceding::span[7]</value>
-      <webElementGuid>b816cfd1-aab1-4aad-a9d3-8e11c87c2299</webElementGuid>
+      <webElementGuid>741d1e37-9a59-44c2-8f6b-eabb295849c2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,6 +78,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//label/span</value>
-      <webElementGuid>2d8d9e17-da90-4a0d-bfef-5449e60f4e66</webElementGuid>
+      <webElementGuid>cb42af0d-85c1-4a7b-aee4-f8d3417de09b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

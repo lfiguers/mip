@@ -22,7 +22,7 @@ import org.openqa.selenium.WebElement as WebElement
 import com.kms.katalon.core.configuration.RunConfiguration as RunConfiguration
 import com.kms.katalon.core.webui.driver.DriverFactory as DriverFactory
 
-WebUI.callTestCase(findTestCase('Casos de prueba transversales/NavegacionInicialTestNewIntro'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('Casos de prueba transversales/NavegacionInicialMIP1.4SkipIntro'), [:], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.click(findTestObject('Page_Market Intelligence Platform/mat-icon_navigate_before'))
 
@@ -42,23 +42,25 @@ String ExpectedValue = '17.606.000.000'
 
 WebDriver driver = DriverFactory.getWebDriver()
 
-WebElement Table = driver.findElement(By.xpath("//html/body/app-root/div/div/div/div/mip-company-detail/div[2]/div[1]/mip-section/div/div[3]/mip-competitors-financial-performance-table/div/mip-table-ng-prime/div/p-table/div"))
-'Para localizar la tabla'
-//WebElement Table = WebUI.click(findTestObject('TablesAlliances/tabla_aliances'))
+WebElement Table = driver.findElement(By.xpath('//html/body/app-root/div/div/div/div/mip-company-detail/div[2]/div[1]/mip-section/div/div[3]/mip-competitors-financial-performance-table/div/mip-table-ng-prime/div/p-table/div'))
 
+'Para localizar la tabla'
+
+//WebElement Table = WebUI.click(findTestObject('TablesAlliances/tabla_aliances'))
 'Para ubicar las filas de la tabla, capturará todas las filas disponibles en la tabla'
 List<WebElement> rows_table = Table.findElements(By.tagName('tr'))
 
-
 'Para calcular el número de filas en la tabla'
 int rows_count = rows_table.size()
-println ("se encontraron ${rows_count} filas")
+
+println("se encontraron $rows_count filas")
 
 'Loop se ejecutará para todas las filas de la tabla'
 Loop: for (int row = 0; row < rows_count; row++) {
     'Para ubicar columnas (celdas) de esa fila específica'
     List<WebElement> Columns_row = rows_table.get(row).findElements(By.tagName('td'))
-	println(Columns_row)
+
+    println(Columns_row)
 
     'Para calcular el número de columnas (celdas) en esa fila específica'
     int columns_count = Columns_row.size()

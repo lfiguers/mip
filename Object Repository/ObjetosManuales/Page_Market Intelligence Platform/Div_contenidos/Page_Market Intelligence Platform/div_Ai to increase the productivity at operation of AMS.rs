@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Ai to increase the productivity at operation of AMS</name>
+   <tag></tag>
+   <elementGuidId>61d9f3de-d9ab-4d0a-8c70-8770e7d35107</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/app-root/div/div/div/div/mip-innovation-trends/mip-innovations-trends-ntt-data/div/div/div/div[8]/div[1]/div[2]/mip-read-more/div/div[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>14f8551f-c11e-4d1a-8ca8-915bd1b93532</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mip-read-more__content</value>
+      <webElementGuid>45690539-6967-406c-8793-e318e45141c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ai to increase the productivity at operation of AMS projects.Experiences and Expectations: We have applied basic AI to process info tickets and identify the next action.We have big AMS services where our customers are requesting more productivity, we need to include these technologies to maintain them</value>
+      <webElementGuid>ed314c6e-af5a-499b-88ec-76eafa47e884</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/div[@class=&quot;mip-app&quot;]/div[@class=&quot;mip-app__main-row&quot;]/div[@class=&quot;mip-app__main-row__main-column&quot;]/div[@class=&quot;mip-app__main-row__main-column__content&quot;]/mip-innovation-trends[@class=&quot;ng-star-inserted&quot;]/mip-innovations-trends-ntt-data[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;mip-dashboard&quot;]/div[@class=&quot;mip-dashboard__row--biggest&quot;]/div[@class=&quot;mip-innovation-trend__cards&quot;]/div[@class=&quot;mip-innovation-trend__cards__card ng-star-inserted&quot;]/div[@class=&quot;mip-innovation-trend__cards__card__body&quot;]/div[@class=&quot;mip-innovation-trend__cards__card__body__description&quot;]/mip-read-more[1]/div[@class=&quot;mip-read-more__content&quot;]</value>
+      <webElementGuid>53e8db36-d438-4c29-9db8-4d3e793f7921</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AI-Enabled AMS'])[1]/following::div[2]</value>
+      <webElementGuid>e1587751-6b26-4037-8dc8-6cd4e1c08ff3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div/div[2]/mip-read-more/div</value>
+      <webElementGuid>61aa3688-a2dd-4d8d-87ef-efc81f54a69e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Ai to increase the productivity at operation of AMS projects.Experiences and Expectations: We have applied basic AI to process info tickets and identify the next action.We have big AMS services where our customers are requesting more productivity, we need to include these technologies to maintain them' or . = 'Ai to increase the productivity at operation of AMS projects.Experiences and Expectations: We have applied basic AI to process info tickets and identify the next action.We have big AMS services where our customers are requesting more productivity, we need to include these technologies to maintain them')]</value>
+      <webElementGuid>69f1b696-b8c9-4785-ba27-78b70762377c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
