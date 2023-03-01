@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_SaaS</name>
+   <tag></tag>
+   <elementGuidId>6b560537-1352-42ba-8b5a-28b3bd6d357a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='pr_id_3-table']/tbody/tr/td[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>8dc5e442-52b5-4132-8f42-a57aa0cc355c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alignfrozen</name>
+      <type>Main</type>
+      <value>left</value>
+      <webElementGuid>bb626c22-116f-4764-bdb5-4314be8e1fee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-element ui-resizable-column ng-star-inserted</value>
+      <webElementGuid>ec4cdf46-efb1-4506-a944-190bbad78684</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> SaaS </value>
+      <webElementGuid>36237c73-1c33-4895-9918-019a7a49cf01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pr_id_3-table&quot;)/tbody[@class=&quot;p-element p-datatable-tbody&quot;]/tr[@class=&quot;p-selectable-row ng-star-inserted&quot;]/td[@class=&quot;p-element ui-resizable-column ng-star-inserted&quot;]</value>
+      <webElementGuid>0072bbd3-b52d-4c1f-a601-92119951ee61</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='pr_id_3-table']/tbody/tr/td[4]</value>
+      <webElementGuid>600333e2-2b91-4796-a631-56f0dd72ac21</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Agility, Connectivity, Data control'])[1]/following::td[1]</value>
+      <webElementGuid>f2698f77-cc9a-4848-9231-347dd3c892a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ALONDRA'])[1]/following::td[2]</value>
+      <webElementGuid>3024facf-de9a-4c7a-ae4e-91b9892422eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Insurance'])[2]/preceding::td[1]</value>
+      <webElementGuid>1aa28fb4-451c-44f7-90da-eb1c746516b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='account_circle'])[1]/preceding::td[2]</value>
+      <webElementGuid>ee25bef3-db52-4dae-9249-af5aea47d764</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='SaaS']/parent::*</value>
+      <webElementGuid>5ae99c9f-1b4c-420e-a016-3fa7faec1659</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[4]</value>
+      <webElementGuid>b3bf0c48-c480-4931-bef7-db6fb845db60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = ' SaaS ' or . = ' SaaS ')]</value>
+      <webElementGuid>f88fdf5d-36d8-4607-badf-eaf526c3ee24</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

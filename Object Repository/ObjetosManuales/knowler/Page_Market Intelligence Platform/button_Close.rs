@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Lets go</name>
+   <name>button_Close</name>
    <tag></tag>
-   <elementGuidId>798af796-4e81-4b0e-978a-a63981682b9c</elementGuidId>
+   <elementGuidId>5f282473-44b0-4e98-8d96-df7d11177aa4</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>button.mip-button.mip-button--primary.mip-button--big</value>
+         <key>XPATH</key>
+         <value>//mat-dialog-container[@id='mat-dialog-1']/mip-onboarding-corporate_research/div/div/div[2]/mip-button/button</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//mat-dialog-container[@id='mat-dialog-1']/mip-onboarding-companies/div/div/div[2]/mip-button/button</value>
+         <key>CSS</key>
+         <value>mip-button.mip-onboarding__close > button.mip-button.mip-button--primary.mip-button--big</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>0fc56ec6-5532-4acb-8c58-3d8d559a6058</webElementGuid>
+      <webElementGuid>0afe0396-aac9-4e81-a46b-057f6b6f915e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,47 +30,47 @@
       <name>class</name>
       <type>Main</type>
       <value>mip-button mip-button--primary mip-button--big</value>
-      <webElementGuid>33bddfdf-c376-4481-a96d-df5e9c7eba53</webElementGuid>
+      <webElementGuid>f3784eca-80ac-4ed2-a546-c910af2515b1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value> Let's go! </value>
-      <webElementGuid>e78875a9-f2d8-42c0-9948-c11d5b6ce8c8</webElementGuid>
+      <value> Close </value>
+      <webElementGuid>91bad6cd-42f3-4908-90d1-b96bb3fd56ae</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;mat-dialog-1&quot;)/mip-onboarding-companies[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;mip-onboarding&quot;]/div[@class=&quot;mip-onboarding__main-content__single-content&quot;]/div[@class=&quot;mip-onboarding__centered-button&quot;]/mip-button[@class=&quot;mip-onboarding__close&quot;]/button[@class=&quot;mip-button mip-button--primary mip-button--big&quot;]</value>
-      <webElementGuid>1c5fd39a-9d92-473a-aaa5-d1e76bb5ba9c</webElementGuid>
+      <value>id(&quot;mat-dialog-1&quot;)/mip-onboarding-corporate_research[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;mip-onboarding&quot;]/div[@class=&quot;mip-onboarding__main-content__single-content&quot;]/div[@class=&quot;mip-onboarding__centered-button&quot;]/mip-button[@class=&quot;mip-onboarding__close&quot;]/button[@class=&quot;mip-button mip-button--primary mip-button--big&quot;]</value>
+      <webElementGuid>d043aa76-d918-4d3f-bea1-ed783aa0bcb7</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//mat-dialog-container[@id='mat-dialog-1']/mip-onboarding-companies/div/div/div[2]/mip-button/button</value>
-      <webElementGuid>1666b140-166a-48ff-b9ff-d8ccf95f483d</webElementGuid>
+      <value>//mat-dialog-container[@id='mat-dialog-1']/mip-onboarding-corporate_research/div/div/div[2]/mip-button/button</value>
+      <webElementGuid>25962e96-ca45-4380-90b9-0eb29fd1e83b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Strategic Alliances'])[1]/following::button[1]</value>
-      <webElementGuid>648c0aa5-3ec0-4faa-b51f-6961f4ce3ff6</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Corporate Research'])[3]/following::button[1]</value>
+      <webElementGuid>3a34c514-91f7-4b4b-9395-44a05cbaa8fd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clients'])[1]/following::button[1]</value>
-      <webElementGuid>bf167290-a6bb-484e-b8dc-d4180cc31c49</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Corporate Research Unit'])[1]/following::button[3]</value>
+      <webElementGuid>53528eb8-a337-47a8-845f-23c9266385ab</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Capture object:'])[1]/preceding::button[1]</value>
-      <webElementGuid>4f5c46b9-9a65-4544-836b-07857ce31ff6</webElementGuid>
+      <webElementGuid>3b38d0a7-1d93-43db-8d66-317840f9575c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,22 +86,30 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Alt'])[1]/preceding::button[1]</value>
-      <webElementGuid>2a3b409c-bd61-453f-a4a7-f9b54db570f5</webElementGuid>
+      <webElementGuid>47112cc3-57a3-4de1-a9f6-0395f9bcf37f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Close']/parent::*</value>
+      <webElementGuid>74ffd0c9-82d5-46db-8880-32d05a65a3f9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//mip-button/button</value>
-      <webElementGuid>66868754-1bf1-4df2-a475-ef549cfb1a73</webElementGuid>
+      <value>//mip-onboarding-corporate_research/div/div/div[2]/mip-button/button</value>
+      <webElementGuid>674094bd-5eb9-4afa-92f5-5452d40f1c0a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[(text() = concat(&quot; Let&quot; , &quot;'&quot; , &quot;s go! &quot;) or . = concat(&quot; Let&quot; , &quot;'&quot; , &quot;s go! &quot;))]</value>
-      <webElementGuid>e727e6a1-7acf-4569-beeb-f65320b44a24</webElementGuid>
+      <value>//button[(text() = ' Close ' or . = ' Close ')]</value>
+      <webElementGuid>2fa4a178-80a7-4d3c-96e0-d6f4969495ce</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

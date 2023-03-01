@@ -24,16 +24,14 @@ import com.kms.katalon.core.webui.driver.DriverFactory as DriverFactory
 
 WebUI.callTestCase(findTestCase('Casos de prueba transversales/NavegacionInicialMIP1.4SkipIntro'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('Page_Market Intelligence Platform/mat-icon_navigate_before'))
-
-WebUI.click(findTestObject('Page_Market Intelligence Platform/label_Companies'))
-
-WebUI.click(findTestObject('Page_Market Intelligence Platform/label_Alliances'))
+WebUI.click(findTestObject('ObjetosManuales/Page_Market Intelligence Platform/a_apartmentCompaniesexpand_more'))
 
 //Activar en test descativad en dev
-WebUI.click(findTestObject('ObjetosManuales/Page_Market Intelligence Platform/Page_Market Intelligence Platform/Page_Market Intelligence Platform/button_Close'))
+WebUI.click(findTestObject('ObjetosManuales/Page_Market Intelligence Platform/a_Alliances'))
 
 'desde aqui ingresar el ciclo for para recorrer la lista de compañias'
+WebUI.click(findTestObject('ObjetosManuales/Page_Market Intelligence Platform/button_Lets go'))
+
 WebUI.click(findTestObject('Page_Market Intelligence Platform/Page_Market Intelligence Platform/span_Adobe_actualizado'))
 
 WebUI.waitForPageLoad(20)

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Alliances</name>
+   <tag></tag>
+   <elementGuidId>8b7f6f37-8df6-4247-9f37-75d42f7166ff</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Clients'])[1]/following::a[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>74a0aa8d-f10f-49dd-b942-8d896aa4d2ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-tns-c63-0 mip-menu__section__item__subitems__menu-subitem ng-star-inserted</value>
+      <webElementGuid>6c940924-a01f-4d41-b8bf-c85ecb67cf0f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/companies/alliances</value>
+      <webElementGuid>1192e947-0e37-48c3-8438-7c66a1fbef04</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Alliances</value>
+      <webElementGuid>1f4c70dd-c78d-44cc-aa71-e3a8bd216fcd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/div[@class=&quot;mip-app&quot;]/div[@class=&quot;mip-app__main-row&quot;]/mip-menu[@class=&quot;ng-tns-c63-0&quot;]/div[@class=&quot;ng-tns-c63-0 mip-menu&quot;]/div[@class=&quot;ng-tns-c63-0&quot;]/div[@class=&quot;mip-menu__section ng-tns-c63-0 ng-star-inserted&quot;]/div[@class=&quot;mip-menu__section__item ng-tns-c63-0 ng-star-inserted&quot;]/div[@class=&quot;mip-menu__section__item__subitems ng-tns-c63-0 ng-trigger ng-trigger-collapse ng-star-inserted&quot;]/a[@class=&quot;ng-tns-c63-0 mip-menu__section__item__subitems__menu-subitem ng-star-inserted&quot;]</value>
+      <webElementGuid>8180a1d5-9a3b-4ae4-a4ad-2143e739bbc8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clients'])[1]/following::a[1]</value>
+      <webElementGuid>fe72993d-4d51-4df5-a829-ab2f6710d2e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Competitors'])[1]/following::a[2]</value>
+      <webElementGuid>c6421167-09ed-4333-a4ed-827f20aa501f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Analysts &amp; Stats'])[1]/preceding::a[1]</value>
+      <webElementGuid>d5480b78-5855-4eb7-b958-fe5e2a1e5565</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/companies/alliances')]</value>
+      <webElementGuid>fc827130-5a59-46b2-ab01-ddbfa6fff544</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[3]</value>
+      <webElementGuid>65ca6e25-ba49-44a0-be92-8bb66c967375</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/companies/alliances' and (text() = 'Alliances' or . = 'Alliances')]</value>
+      <webElementGuid>d042e3af-9027-4aa4-91fc-6f6164b0346a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

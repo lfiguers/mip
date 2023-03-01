@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Next Step</name>
+   <tag></tag>
+   <elementGuidId>6623f7ad-470d-4246-8993-4d8dba829e30</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-dialog-container[@id='mat-dialog-0']/mip-onboarding-home/div/div[2]/div[2]/div/mip-button/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.mip-button.mip-button--primary.mip-button--big</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>f01c3954-1aff-4e9a-a080-964070801542</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mip-button mip-button--primary mip-button--big</value>
+      <webElementGuid>c1453b2d-b7a2-49a4-af05-ca29c8e214bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Next Step </value>
+      <webElementGuid>7a169bd7-5a79-4455-bfb0-b82e9066fcc3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-dialog-0&quot;)/mip-onboarding-home[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;mip-onboarding&quot;]/div[@class=&quot;mip-onboarding__main-content&quot;]/div[2]/div[@class=&quot;mip-onboarding__button ng-star-inserted&quot;]/mip-button[@class=&quot;ng-star-inserted&quot;]/button[@class=&quot;mip-button mip-button--primary mip-button--big&quot;]</value>
+      <webElementGuid>7cb78d23-1a14-433e-8176-9e0ed410209d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-dialog-container[@id='mat-dialog-0']/mip-onboarding-home/div/div[2]/div[2]/div/mip-button/button</value>
+      <webElementGuid>296354dd-9789-453d-830b-d02a910d59b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Privacy policy.'])[1]/following::button[1]</value>
+      <webElementGuid>10ea49b4-c580-4ae3-b969-3316d40a6af6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Next Step']/parent::*</value>
+      <webElementGuid>9b886f89-0932-4eae-9b43-26a2645b60e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mip-button/button</value>
+      <webElementGuid>42896b1f-25bf-4fc2-bfcd-598fe8d0a2c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = ' Next Step ' or . = ' Next Step ')]</value>
+      <webElementGuid>2a6a6d00-3339-4f01-82e0-5390ffbdff4e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

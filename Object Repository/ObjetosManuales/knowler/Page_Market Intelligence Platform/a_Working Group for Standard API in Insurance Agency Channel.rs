@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Working Group for Standard API in Insurance Agency Channel</name>
+   <tag></tag>
+   <elementGuidId>eff813ae-dfad-4beb-9784-1e7a00ca1d80</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.link</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>02366fa9-2618-4e90-9f61-f125f995e2cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>link</value>
+      <webElementGuid>bc781112-9b2f-4749-af71-c53c61ded968</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://globaloffering-insurance.nttdata.com/working-group-standard-api-insurance-agency-channel-generali-cross-life-savings-application</value>
+      <webElementGuid>b6efac0d-4269-4e7e-bea7-1c2a85eb017c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>9a508daa-c8ec-4695-b413-9c84ddae2a77</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Working Group for Standard API in Insurance Agency Channel</value>
+      <webElementGuid>956869b1-46db-4515-852c-0c8786a235dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pr_id_11-table&quot;)/tbody[@class=&quot;p-element p-datatable-tbody&quot;]/tr[@class=&quot;p-selectable-row ng-star-inserted&quot;]/td[@class=&quot;p-element ui-resizable-column ng-star-inserted&quot;]/span[@class=&quot;ng-star-inserted&quot;]/a[@class=&quot;link&quot;]</value>
+      <webElementGuid>314375b1-8daa-401d-8f43-cc7ab66dbc25</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='pr_id_11-table']/tbody/tr/td/span/a</value>
+      <webElementGuid>c51a5fbe-7a6b-41ec-a2d4-69e92ece6903</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Working Group for Standard API in Insurance Agency Channel')]</value>
+      <webElementGuid>619f2845-cc1c-488a-94a2-f78b2d534203</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sub-Service line'])[1]/following::a[1]</value>
+      <webElementGuid>e1cb3d87-d0e7-4a80-91b6-ad60fad2dc1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Service line'])[1]/following::a[1]</value>
+      <webElementGuid>64d43c05-7876-492a-bcb0-b8e465dffde8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Undisclosed company'])[1]/preceding::a[1]</value>
+      <webElementGuid>2049d162-bf13-44e4-a3ef-4229d17aa937</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Japan'])[1]/preceding::a[1]</value>
+      <webElementGuid>bacece21-2952-4b4d-b441-d90c29239609</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Working Group for Standard API in Insurance Agency Channel']/parent::*</value>
+      <webElementGuid>186a585f-4261-4e09-9bbe-290742f7e083</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://globaloffering-insurance.nttdata.com/working-group-standard-api-insurance-agency-channel-generali-cross-life-savings-application')]</value>
+      <webElementGuid>6c68c559-b91e-4fe2-948d-818019e9cf4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/a</value>
+      <webElementGuid>88ebc3fe-ad86-4f9e-b55f-4514d54ca8ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://globaloffering-insurance.nttdata.com/working-group-standard-api-insurance-agency-channel-generali-cross-life-savings-application' and (text() = 'Working Group for Standard API in Insurance Agency Channel' or . = 'Working Group for Standard API in Insurance Agency Channel')]</value>
+      <webElementGuid>ea5400b9-e48e-453d-a8df-cc27fa220e16</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

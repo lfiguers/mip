@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Smart Operations</name>
+   <tag></tag>
+   <elementGuidId>b2a6552c-1a7f-492f-873c-8d33f6189dd6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='pr_id_1-table']/tbody/tr/td/span/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.link</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>a1f3c7b2-7bcd-45bc-9bd0-63a790e9dee3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>link</value>
+      <webElementGuid>7bd19739-acf8-4ebe-8499-a49e4ec59458</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://everisgroup.sharepoint.com/sites/GATE/SitePages/Smart-Operations.aspx</value>
+      <webElementGuid>a7b2f8d3-2a31-45cc-af40-843365dd0352</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>37625b4c-f6fc-4aa3-8cd8-4f419d79f4ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Smart Operations</value>
+      <webElementGuid>9c7e2ecb-9228-4690-a8e9-894ab403f7fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pr_id_1-table&quot;)/tbody[@class=&quot;p-element p-datatable-tbody&quot;]/tr[@class=&quot;p-selectable-row ng-star-inserted&quot;]/td[@class=&quot;p-element ui-resizable-column ng-star-inserted&quot;]/span[@class=&quot;ng-star-inserted&quot;]/a[@class=&quot;link&quot;]</value>
+      <webElementGuid>6c89122e-0fc3-4206-b62d-fa4c9e61704b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='pr_id_1-table']/tbody/tr/td/span/a</value>
+      <webElementGuid>2b638c45-1cd9-4cc5-9c79-b09304c5304a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Smart Operations')]</value>
+      <webElementGuid>15bd9de4-47d7-444d-8a16-e6f9916a832a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sub-Service Line'])[1]/following::a[1]</value>
+      <webElementGuid>4baad187-225f-400e-a459-25d897fe71f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Service Line'])[1]/following::a[1]</value>
+      <webElementGuid>ba54518c-9c87-4c6a-8539-bb3068f786b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='account_circle'])[1]/preceding::a[1]</value>
+      <webElementGuid>67a90eb8-a51a-44a6-9766-a28ef74725d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Miguel Angel López Toledo'])[1]/preceding::a[1]</value>
+      <webElementGuid>b76599a3-74fa-4ca1-a087-f4dd3a5f2652</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Smart Operations']/parent::*</value>
+      <webElementGuid>60b30490-29be-4135-a6bb-28403109659a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://everisgroup.sharepoint.com/sites/GATE/SitePages/Smart-Operations.aspx')]</value>
+      <webElementGuid>782c50bb-d21e-4c3d-aaca-287f47d1a07a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/a</value>
+      <webElementGuid>1c939d97-b668-4d3c-a39a-030245e7a754</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://everisgroup.sharepoint.com/sites/GATE/SitePages/Smart-Operations.aspx' and (text() = 'Smart Operations' or . = 'Smart Operations')]</value>
+      <webElementGuid>c3bbaef2-7617-4b70-b5a8-0aacae820278</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
